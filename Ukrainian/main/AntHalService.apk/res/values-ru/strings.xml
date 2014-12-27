@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name">ANT HAL Сервис</string>
-    <string name="permdesc_antradio">Приложение сможет напрямую настраивать ANT сигнал. Вредоносные программы могут предотвратить предоставления ANT функциональности в другие приложения.</string>
-    <string name="permlab_antradio">использовать ANT оборудование</string>
-    <string name="permdesc_ant">Приложение сможет соединяться с ANT-совместимыми устройствами, использующих службу прокси. Вредоносные программы могут получить информацию или передать ее на устройства ANT без вашего ведома</string>
-    <string name="permlab_ant">использовать ANT радиоинтерфейс</string>
-    <string name="permdesc_antAdmin">Приложение сможет напрямую настроить ANT сигнал через прокси-сервис. Вредоносные программы могут предотвратить другие ANT приложения от подключения к ANT устройств.</string>
-    <string name="permlab_antAdmin">управлять конфигурацией ANT радио</string>
+    <string name="app_name">ANT HAL Сервіс</string>
+    <string name="permdesc_antradio">Додаток матиме змогу безпосередньо налаштовувати ANT сигнал. Шкідливі програми можуть запобігти наданню ANT функціональності в інші додатки.</string>
+    <string name="permlab_antradio">Використовувати ANT обладнання</string>
+    <string name="permdesc_ant">Додаток матиме змогу об'єднуватися з ANT-сумісними пристроями, які використовують службу проксі. Шкідливі програми можуть отримати інформацію або передати її  на пристрої ANT без вашого відома</string>
+    <string name="permlab_ant">Використовувати ANT радіоінтерфейс</string>
+    <string name="permdesc_antAdmin">Додаток матиме змогу безпосередньо налаштовувати ANT сигнал через проксі-сервіс. Шкідливі програми можуть запобігти іншим ANT додаткам підключитися до ANT пристроїв.</string>
+    <string name="permlab_antAdmin">керувати конфігурацією ANT радіо</string>
 </resources>
