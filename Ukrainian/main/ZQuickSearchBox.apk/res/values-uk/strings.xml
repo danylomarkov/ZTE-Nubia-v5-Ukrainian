@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Пошук</string>
+    <string name="remove_from_history_failed">Не вдалося видалити дані з історії пошуку.</string>
+    <string name="corpus_selection_heading">Пошук</string>
+    <string name="menu_settings">Настройки пошуку</string>
+    <string name="system_search_category_title">Телефон</string>
+    <string name="clear_shortcuts_summary">Видалити ярлики недавно вибраних результатів пошуку</string>
+    <string name="menu_help">Довідка</string>
+    <string name="google_search_label">Google</string>
+    <string name="google_search_hint">Пошук Google</string>
+    <string name="google_search_description">Пошукові підказки Google</string>
+    <string name="voice_search_hint_title">Спробуйте сказати:</string>
+    <string name="enter_keys_to_search">Введіть ключове слово</string>
+</resources>

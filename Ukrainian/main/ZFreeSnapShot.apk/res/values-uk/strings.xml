@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Вільний скріншот</string>
+    <string name="action_settings">Налаштування</string>
+    <string name="save">Зберегти</string>
+    <string name="cancel">Скасувати</string>
+    <string name="reDraw">Переробити</string>
+    <string name="shared">Поділитися</string>
+    <string name="start_tips">Намалюйте область для захоплення скріншоту</string>
+    <string name="save_tips">Зберегти скріншот</string>
+    <string name="drop_tips">Вийти з додатку</string>
+    <string name="redraw_tips">Переробити скріншот</string>
+    <string name="app_description">Поділитися значком додатку</string>
+    <string name="introduction_title">Вільний скріншот</string>
+    <string name="introduction_summary">Намалюйте замкнуту криву</string>
+    <string name="intro_tip">Не показувати більше</string>
+    <string name="ok">Підтвердити</string>
+    <string name="disk_unloaded">Диск переповнений</string>
+    <string name="share_title">Поділитися</string>
+    <string name="no_sdcard">Вставте SD-карту</string>
+    <string name="app_capture_screen_error">Помилка, спробуйте ще раз</string>
+    <string name="free_screenshot_description">Натисніть і утримуйте кнопку 'Меню' щоб зробити вільний скріншот</string>
+    <string name="failure_capture_screenshot">Помилка захоплення скріншоту</string>
+    <string name="title">Створення вільного скріншоту</string>
+</resources>

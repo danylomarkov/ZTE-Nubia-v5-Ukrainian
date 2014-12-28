@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="sa_remind_regularly">
+        <item>Не нагадувати</item>
+        <item>Нагадувати щотижня</item>
+        <item>Нагадувати щомісяця</item>
+    </string-array>
+    <string-array name="app_backup_type">
+        <item>Резервне копіювання додатку</item>
+        <item>Резервне копіювання даних в додатку</item>
+    </string-array>
+    <string-array name="backup_item_group_type">
+        <item>Установлені додатки і дані</item>
+        <item>Установлені, але зарезервовані дані</item>
+    </string-array>
+    <string-array name="app_restore_type">
+        <item>Відновити додаток</item>
+        <item>Відновити дані додатку</item>
+    </string-array>
+    <string-array name="schedule_backup_content_types">
+        <item>Особиста інформація</item>
+        <item>Системна інформація</item>
+    </string-array>
+    <string-array name="schedule_reminder_types">
+        <item>Не нагадувати</item>
+        <item>П'ять хвилин</item>
+        <item>Десять хвилин</item>
+        <item>П'ятнадцять хвилин</item>
+        <item>Двадцять хвилин</item>
+        <item>Двадцять п'ять хвилин</item>
+        <item>Півгодини</item>
+        <item>Сорок п'ять хвилин</item>
+        <item>Година</item>
+    </string-array>
+    <string-array name="cycle_day_of_week">
+        <item>Неділя</item>
+        <item>Понеділок</item>
+        <item>Вівторок</item>
+        <item>Середа</item>
+        <item>Четвер</item>
+        <item>П'ятниця</item>
+        <item>Субота</item>
+    </string-array>
+</resources>
