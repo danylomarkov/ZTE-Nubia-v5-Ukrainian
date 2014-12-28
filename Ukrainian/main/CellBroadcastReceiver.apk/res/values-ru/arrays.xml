@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string-array name="alert_sound_duration_entries">
-        <item>2 секунды</item>
-        <item>4 секунды</item>
+        <item>2 секунди</item>
+        <item>4 секунди</item>
         <item>6 секунд</item>
         <item>8 секунд</item>
         <item>10 секунд</item>
@@ -16,9 +16,9 @@
     </string-array>
     <string-array name="alert_reminder_interval_entries">
         <item>Один раз</item>
-        <item>Каждые 2 минуты</item>
-        <item>Каждые 15 минут</item>
-        <item>Отключить</item>
+        <item>Кожні 2 хвилини</item>
+        <item>Кожні 15 хвилин</item>
+        <item>Відключити</item>
     </string-array>
     <string-array name="alert_reminder_interval_values">
         <item>1</item>
