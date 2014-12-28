@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="IZat_MENU_TEXT">Прискорене місцезнаходження</string>
+    <string name="IZat_SUB_TITLE_TEXT">Використовуйте апаратно прискорене місцезнаходження Qualcomm&lt;sup>&amp;reg;&lt;/sup> IZat&lt;sup>TM&lt;/sup></string>
+    <string name="POPUP_BOX_TITLE">Розміщення згоди</string>
+    <string name="POPUP_BOX_TEXT">Для включення апаратного прискорення дозвольте IZat збирати дані про місцезнаходження. IZat зберігає дані на вашому пристрої і може працювати навіть коли жоден додаток не працює.</string>
+    <string name="POLICY_LINK">&lt;a href=\"http://xt.qsp.qualcomm.com/privacy/privacy_policy.html\">Умови та конфіденційність&lt;/a></string>
+    <string name="IZAT_AGREE">Згідний</string>
+    <string name="IZAT_DISAGREE">Не згідний</string>
+    <string name="XT_APP_TITLE">Qualcomm IZat</string>
+</resources>

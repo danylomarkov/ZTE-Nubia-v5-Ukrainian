@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="crop_wallpaper">Шпалери для робочого столу</string>
+    <string name="wallpaper_instructions">Встановити шпалери</string>
+    <string name="wallpaper_load_fail">"Не вдалось завантажити зображення як шпалери робочого столу"</string>
+</resources>

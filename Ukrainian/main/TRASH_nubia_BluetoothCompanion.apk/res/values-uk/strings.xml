@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="setting_activity">Налаштування</string>
+    <string name="accessibility_preference_summary">"Активуйте сервіс сповіщень в Спеціальних можливостях. Це дозволить BTNotification відображати сповіщення з додатків."</string>
+    <string name="ok">ОК</string>
+    <string name="cancel">Скасувати</string>
+    <string name="accessibility_description">Активний сервіс сповіщень про стан доступності. Це дозволяє BT отримувати Push-сповіщення від додатків для віддаленого пристрою.</string>
+    <string name="welcome_0">Ласкаво просимо в Bluetooth Companion</string>
+    <string name="welcome_1">Використовуйте Bluetooth Companion для дзвінків, відправки повідомлень, прослуховування музики</string>
+    <string name="welcome_2">Не бійтесь загубити одне одного! Сигнал тривоги спрацює, якщо Bluetooth Companion покине зону дії</string>
+    <string name="welcome_3">Використовуйте Bluetooth Companion для віддаленого керування камерою Nubia</string>
+    <string name="using_tip">Bluetooth Companion дозволяє віддалено керувати камерою(лише для Nubia), відповідати на дзвінки, писати и відправляти повідомлення, прослуховувати музику, знаходити одне одного, повідомляти про втрату пристрою. Давай це спробуємо!</string>
+    <string name="start">Почати</string>
+    <string name="string_connect">З'єднати</string>
+    <string name="string_nfc">Пара NFC</string>
+    <string name="string_camera">Камера</string>
+    <string name="no_available_devices">немає доступних пристроїв</string>
+    <string name="title_activity_device_picker">Додати Bluetooth Companion</string>
+    <string name="scanning_title">Виявлені пристрої</string>
+    <string name="refresh_string">Оновити</string>
+    <string name="before_scan_start">Натисніть 'Оновити' для продовження сканування сусідніх пристроїв</string>
+    <string name="before_scan_start_check_ble">Перевірте, чи Bluetooth Companion активований</string>
+    <string name="scanning_empty">Сканування сусудніх пристроїв</string>
+    <string name="please_wait">зачекайте…</string>
+    <string name="paired_devices">З'єднано</string>
+    <string name="nfc_pair_tips">"(У інших телефонів інша зона NFC)
+
+Прикладіть телефони одне до одного для перевірки"</string>
+    <string name="yes">ОК</string>
+    <string name="no">Скасувати</string>
+</resources>

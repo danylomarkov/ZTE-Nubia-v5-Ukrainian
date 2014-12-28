@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Зворотній зв'язок</string>
+    <string name="exception_title">Опис помилки:</string>
+    <string name="exception_title_hint">Опишіть виниклу проблему</string>
+    <string name="exception_steps">Список дій:</string>
+    <string name="exception_steps_hint">Розпишіть кроки, що привели до виникнення проблеми</string>
+    <string name="exception_info">Журнал помилки:</string>
+    <string name="but_send">Відправити</string>
+    <string name="but_cancel">Скасувати</string>
+    <string name="setting_wiless_btn">Налаштування</string>
+    <string name="setting_wiless_title">Підключення</string>
+    <string name="setting_wiless_message">Телефон повинен бути підключеним до Інтернету для відправки логу. Після підключення до мережі, журнал помилки відправиться автоматично.</string>
+</resources>
