@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <plurals name="delete_selection">
-        <item quantity="other">Удалить выбранные файлы?</item>
-        <item quantity="one">Удалить выбранный файл?</item>
+        <item quantity="other">Видалити вибрані файли?</item>
+        <item quantity="one">Видалити вибраний файл?</item>
     </plurals>
     <plurals name="number_of_items_selected">
         <item quantity="other">%1$d</item>
