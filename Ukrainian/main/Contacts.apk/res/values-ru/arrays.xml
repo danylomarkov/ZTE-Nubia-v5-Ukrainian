@@ -1,34 +1,34 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string-array name="default_smiley_names">
-        <item>Радость</item>
-        <item>Грустный</item>
-        <item>Подмигивает</item>
-        <item>Показывает язык</item>
-        <item>Удивлен</item>
-        <item>Поцелуй</item>
-        <item>Кричит</item>
-        <item>Крутой</item>
-        <item>Не болтай попусту</item>
-        <item>В замешательстве</item>
-        <item>Смущение</item>
+        <item>Радісний</item>
+        <item>Сумний</item>
+        <item>Підморгує</item>
+        <item>Показує язик</item>
+        <item>Здивований</item>
+        <item>Поцілунок</item>
+        <item>Кричить</item>
+        <item>Крутий</item>
+        <item>Не говори дурниць</item>
+        <item>Збентежений</item>
+        <item>Зніяковілість</item>
         <item>Ангел</item>
-        <item>Нерешительный</item>
-        <item>Плачет</item>
+        <item>Нерішучий</item>
+        <item>Плаче</item>
         <item>Не скажу</item>
-        <item>Смех</item>
-        <item>Озадаченный</item>
-        <item>Сердце</item>
-        <item>Злой</item>
-        <item>Ухмылка</item>
-        <item>Невозмутимость</item>
+        <item>Сміх</item>
+        <item>Спантеличений</item>
+        <item>Серце</item>
+        <item>Злий</item>
+        <item>Насмішка</item>
+        <item>Незворушність</item>
     </string-array>
     <string-array name="empty_subject_strings">
-        <item>без темы</item>
+        <item>без теми</item>
     </string-array>
     <string-array name="otherLabels">
-        <item>Организация</item>
-        <item>Примечание</item>
+        <item>Організація</item>
+        <item>Примітка</item>
     </string-array>
 	<string-array name="pref_slideshow_open_mode_choices">
         <item>Газета</item>
@@ -49,27 +49,27 @@
         <item>8 секунд</item>
         <item>9 секунд</item>
         <item>10 секунд</item>
-        <item>Другое</item>
+        <item>Інше</item>
     </string-array>
     <string-array name="pref_slideshow_open_mode_values">
         <item>Газета</item>
         <item>Слайдшоу</item>
      </string-array>
     <string-array name="default_phrases">
-        <item>"Как дела?"</item>
-        <item>Спасибо</item>
-        <item>"Давай встретимся."</item>
-        <item>Проверь это!</item>
-        <item>Чё делаешь?</item>
-        <item>Что вы думаете?</item>
-        <item>"Ты должен быть здесь."</item>
-        <item>"Прогуляемся?"</item>
-        <item>Я в пути.</item>
-        <item>Да</item>
-        <item>Нет</item>
-        <item>Позже</item>
-        <item>"Ты лучший!"</item>
-        <item>Ты где?</item>
-        <item>Позвони мне</item>
+        <item>"Як справи?"</item>
+        <item>Дякую</item>
+        <item>"Давай зустрінемося."</item>
+        <item>Перевір це!</item>
+        <item>Що робиш?</item>
+        <item>Що ти думаєш?</item>
+        <item>"Ти повинен бути тут."</item>
+        <item>"Прогуляємося?"</item>
+        <item>Я в дорозі.</item>
+        <item>Так</item>
+        <item>Ні</item>
+        <item>Пізніше</item>
+        <item>"Ти найкращий!"</item>
+        <item>Ти де?</item>
+        <item>Подзвони мені</item>
      </string-array>
 </resources>
