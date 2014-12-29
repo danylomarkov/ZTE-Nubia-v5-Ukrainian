@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string-array name="general_preference_text_zoom_summary_array">
-        <item>Мелкий1</item>
-        <item>Небольшой</item>
-        <item>Обычный</item>
-        <item>Большой</item>
-        <item>Огромный</item>
+        <item>Малий</item>
+        <item>Невеликий</item>
+        <item>Звичайний</item>
+        <item>Виликий</item>
+        <item>Величезний</item>
     </string-array>
 </resources>
