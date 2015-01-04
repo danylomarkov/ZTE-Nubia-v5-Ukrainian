@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <plurals name="delete_selection">
-        <item quantity="other">Удалить выбранные файлы?</item>
-        <item quantity="one">Удалить выбранный файл?</item>
+        <item quantity="other">Стерти вибрані файли?</item>
+        <item quantity="one">Стерти вибраний файл?</item>
     </plurals>
     <plurals name="number_of_items_selected">
         <item quantity="other">%1$d</item>
@@ -20,13 +20,13 @@
         <item quantity="one">%1$d</item>
     </plurals>
     <plurals name="make_albums_available_offline">
-        <item quantity="other">Загрузка альбомов для офлайн-доступа.</item>
-        <item quantity="one">Загрузка альбома для офлайн-доступа</item>
+        <item quantity="other">Завантаження альбомів для офлайн-доступу.</item>
+        <item quantity="one">Завантаження альбому для офлайн-доступу</item>
     </plurals>
     <plurals name="number_of_items_moved">
-        <item quantity="other">%1$d удалено</item>
-        <item quantity="zero">%1$d удалено</item>
-        <item quantity="one">%1$d удалено</item>
+        <item quantity="other">%1$d стерто</item>
+        <item quantity="zero">%1$d стерто</item>
+        <item quantity="one">%1$d стерто</item>
     </plurals>
     <plurals name="number_of_items_gifed">
         <item quantity="other">OK (%1$d)</item>
