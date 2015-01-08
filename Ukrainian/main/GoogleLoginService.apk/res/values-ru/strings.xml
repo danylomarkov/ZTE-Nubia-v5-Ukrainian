@@ -115,48 +115,48 @@
 "<annotation id="learn_more">Детальніше...</annotation></string>
     <string name="invalid_name_text">Це ім'я не можна використовувати в Google+, оскільки  воно містить недопустимі символи.</string>
     <string name="invalid_nickname_text">Це ім'я не можна використовувати в Google+, оскільки  воно містить недопустимі символи. Якщо бажаєте вказати псевдонім,інше ім'я або звання, додайте його в профіль після реєстрації.</string>
-    <string name="invalid_other_text">Нельзя использовать это имя в Google+.</string>
-    <string name="bad_name_agree_text">Я принимаю условия и хочу использовать это имя.</string>
-    <string name="bad_name_decline_button_label">Изменить имя</string>
-    <string name="bad_name_agree_button_label">Отправить на проверку</string>
-    <string name="bad_name_skip_button_label">Не активировать Google+</string>
+    <string name="invalid_other_text">Не можна використовувати це ім'я в Google+.</string>
+    <string name="bad_name_agree_text">Я приймаю умови і хочу використовувати це ім'я.</string>
+    <string name="bad_name_decline_button_label">Змінити ім'я</string>
+    <string name="bad_name_agree_button_label">Відправити на перевірку</string>
+    <string name="bad_name_skip_button_label">Не активувати Google+</string>
     <string name="photo_title">Ваше фото</string>
-    <string name="photo_text">Фото сохранится в ваших контактных данных. Сменить его можно в приложении \"Контакты\".</string>
-    <string name="photo_text_es">Сделайте фотографию, которую будут видеть ваши друзья в Google+. Позже вы всегда сможете сменить ее.</string>
-    <string name="photo_button_label">Сделать снимок</string>
-    <string name="retake_photo_button_label">Перефотографировать</string>
-    <string name="photo_failure">Не удалось включить камеру.</string>
-    <string name="crop_failure">Не удалось кадрировать фотографию.</string>
+    <string name="photo_text">Фото збережеться у ваших контактних даних. Змінити його можна в додатку \"Контакти\".</string>
+    <string name="photo_text_es">Зробіть фотографію, яку будуть бачити ваші друзі в Google+. Пізніше  ви завжди зможете змінити її.</string>
+    <string name="photo_button_label">Зробити знімок</string>
+    <string name="retake_photo_button_label">Перефотографувати</string>
+    <string name="photo_failure">Не вдалося увімкнути камеру.</string>
+    <string name="crop_failure">Не удалось кадрувати фотографію.</string>
     <string name="photo_description">Ваше фото</string>
-    <string name="communicating_message">Телефон связывается с Google, чтобы сохранить информацию в аккаунте. Это может занять несколько минут.</string>
-    <string name="creating_account_title">Сохранение аккаунта...</string>
-    <string name="checking_username_message">"Телефон связывается с Google, чтобы проверить доступность указанного имени пользователя.
+    <string name="communicating_message">Телефон зв'язується з Google, щоб зберігати інформацію в аккаунті. Це може зайняти декілька хвилин.</string>
+    <string name="creating_account_title">Збереження аккаунту...</string>
+    <string name="checking_username_message">"Телефон зв'язується з Google, щоб перевірити  доступність вказаного ім'я користувача.
 
-Это может занять несколько минут."</string>
-    <string name="plus_failure_title">Сбой активации Google+</string>
-    <string name="plus_failure_new_account_text">Аккаунт Google создан, но запрос на регистрацию в Google+ не принят. Повторите попытку позже, открыв страницу plus.google.com в любом веб-браузере.</string>
-    <string name="plus_failure_text">Запрос на регистрацию в Google+ не принят. Повторите попытку позже, открыв страницу plus.google.com в любом веб-браузере.</string>
-    <string name="provisioned_login_title">Введите пароль</string>
-    <string name="provisioned_welcome">Здравствуйте, %s!</string>
-    <string name="provisioned_welcome_2">"Введите пароль для этого пользователя:
+Це може зайняти декілька хвилин."</string>
+    <string name="plus_failure_title">Збій активації Google+</string>
+    <string name="plus_failure_new_account_text">Аккаунт Google створено, але запит на реєстрацію в Google+ не прийнято. Повторіть спробу пізніше, відкривши сторінку  plus.google.com у будь-якому веб-браузері.</string>
+    <string name="plus_failure_text">Запит на реєстрацію в Google+ не прийнято. Повторіть спробу пізніше, відкривши сторінку plus.google.com  у будь-якому веб-браузері.</string>
+    <string name="provisioned_login_title">Введіть пароль</string>
+    <string name="provisioned_welcome">Здрастуйте, %s!</string>
+    <string name="provisioned_welcome_2">"Введіть пароль для цього користувача:
 %s"</string>
     <string name="provisioned_incorrect_login">Я не %s</string>
-    <string name="login_title">Введите адрес электронной почты и пароль</string>
-    <string name="login_task_title">Выполняется вход</string>
+    <string name="login_title">Введіть адресу електронної пошти і пароль</string>
+    <string name="login_task_title">Виконується вхід</string>
     <string name="password">Пароль</string>
-    <string name="sign_in_agreement">Выполняя вход, вы принимаете <annotation id="tos">Условия использования</annotation> и <annotation id="google_privacy">Политику конфиденциальности</annotation> Google, а также <annotation id="play_tos">Условия использования Google Play</annotation>.</string>
-    <string name="sign_in_agreement_multi_user">Выполняя вход в аккаунт, вы соглашаетесь с <annotation id="tos">Условиями использования</annotation> и <annotation id="google_privacy">Политикой конфиденциальности</annotation> Google, а также <annotation id="play_tos">Условиями использования Google Play</annotation>".
+    <string name="sign_in_agreement">Входячи, ви приймаєте <annotation id="tos">умови використання</annotation> і <annotation id="google_privacy">політику конфіденційності</annotation> Google, а також <annotation id="play_tos">умови користування Google Play</annotation>.</string>
+    <string name="sign_in_agreement_multi_user">Входячи в аккаунт, ви погоджуєтеся з  <annotation id="tos">умовами використання</annotation> і <annotation id="google_privacy">політикою конфіденційності</annotation> Google, а також <annotation id="play_tos">умовами користування Google Play</annotation>".
 
-Помните: другие пользователи могут разрешать обновления для вашего аккаунта, поэтому мы рекомендуем предоставлять доступ к устройству только тем людям, которым вы доверяете."</string>
-    <string name="sign_in_agreement_with_chrome">Выполняя вход, вы принимаете <annotation id="tos">Условия использования</annotation> и <annotation id="google_privacy">Политику конфиденциальности</annotation> Google, <annotation id="chrome_tos">Условия использования</annotation> и <annotation id="chrome_privacy">Примечание о конфиденциальности</annotation> Chrome, а также <annotation id="play_tos">Условия использования</annotation> Google Play.</string>
-    <string name="sign_in_agreement_with_chrome_multi_user">Выполняя вход в аккаунт, вы соглашаетесь с <annotation id="tos">Условиями использования</annotation> и <annotation id="google_privacy">Политикой конфиденциальности</annotation> Google, <annotation id="chrome_tos">Условиями использования</annotation> и <annotation id="chrome_privacy">Примечанием о конфиденциальности</annotation> Chrome, а также <annotation id="play_tos">Условиями использования</annotation>" Google Play. 
+Пам'ятайте: інші користувачі можуть розширювати оновлення для вашого аккаунту, тому ми рекомендуємо надавати доступ доступ до пристрою тільки тим людям, яким ви довіряєте."</string>
+    <string name="sign_in_agreement_with_chrome">Входячи, ви приймаєте <annotation id="tos">умови використання</annotation> і <annotation id="google_privacy">політику конфіденційності</annotation> Google, <annotation id="chrome_tos">умови користування</annotation> і <annotation id="chrome_privacy">Примітки про конфіденційність</annotation> Chrome, а також <annotation id="play_tos">умови використання</annotation> Google Play.</string>
+    <string name="sign_in_agreement_with_chrome_multi_user">Входячи в аккаунт, ви погоджуєтеся з <annotation id="tos">умовами використання</annotation> і <annotation id="google_privacy">політикою конфіденційності</annotation> Google, <annotation id="chrome_tos">умовами використання</annotation> і <annotation id="chrome_privacy">Примітками про конфіденційність</annotation> Chrome, а також <annotation id="play_tos">умови використання</annotation>" Google Play. 
 
-Помните: другие пользователи могут разрешать обновления для вашего аккаунта, поэтому мы рекомендуем предоставлять доступ к устройству только тем людям, которым вы доверяете."</string>
-    <string name="create_prompt">" Нет аккаунта Google? "<annotation id="create_account">Создайте его прямо сейчас</annotation>.</string>
-    <string name="sign_in_with_google_account_short">Введите имя пользователя и пароль.</string>
-    <string name="invalid_username">Недопустимое имя пользователя.</string>
-    <string name="captcha_instructions">Введите текст, который видите на картинке.</string>
-    <string name="create_google_account">Выбор имени пользователя</string>
+Пам'ятайте: інші користувачі можуть розширювати оновлення для вашого аккаунту, тому ми рекомендуємо надавати доступ доступ до пристрою тільки тим людям, яким ви довіряєте."</string>
+    <string name="create_prompt">" Немає аккаунту Google? "<annotation id="create_account">Створіть його зараз</annotation>.</string>
+    <string name="sign_in_with_google_account_short">Введіть ім'я користувача і пароль.</string>
+    <string name="invalid_username">Недопустиме ім'я користувача.</string>
+    <string name="captcha_instructions">Введіть текст, який бачите на картинці.</string>
+    <string name="create_google_account">Вибір ім'я користувача</string>
     <string name="create_google_account_text">С помощью своего аккаунта вы можете пользоваться Gmail – службой электронной почты от Google. Она работает на любых устройствах, надежно защищает от спама и имеет множество других преимуществ.</string>
     <string name="account_already_has_gmail">У аккаунта уже есть Gmail.</string>
     <string name="error_account_disabled">"Этот аккаунт был отключен.
