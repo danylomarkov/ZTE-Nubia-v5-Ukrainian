@@ -157,65 +157,65 @@
     <string name="invalid_username">Недопустиме ім'я користувача.</string>
     <string name="captcha_instructions">Введіть текст, який бачите на картинці.</string>
     <string name="create_google_account">Вибір ім'я користувача</string>
-    <string name="create_google_account_text">С помощью своего аккаунта вы можете пользоваться Gmail – службой электронной почты от Google. Она работает на любых устройствах, надежно защищает от спама и имеет множество других преимуществ.</string>
-    <string name="account_already_has_gmail">У аккаунта уже есть Gmail.</string>
-    <string name="error_account_disabled">"Этот аккаунт был отключен.
+    <string name="create_google_account_text">За допомогою свого аккаунту ви можете користуватися Gmail – службою електронної пошти від Google. Вона працює на будь-яких пристроях, надійно захищає від спаму та має багато інших переваг.</string>
+    <string name="account_already_has_gmail">У аккаунту вже є Gmail.</string>
+    <string name="error_account_disabled">"Цей аккаунт було відключено.
 
-(Для получения дополнительной информации посетите страницу http://google.com/accounts/recovery?hl=ru)."</string>
-    <string name="no_network">Сетевое подключение отсутствует.</string>
-    <string name="no_network_help">Возможно, в устройстве Android возникла временная неполадка либо не поддерживается передача данных. Подключитесь к мобильной сети или сети Wi-Fi и повторите попытку.</string>
-    <string name="no_network_help_wifi_only">Похоже, возникла временная неполадка. Повторите попытку или подключитесь к другой сети Wi-Fi.</string>
-    <string name="error_login_failed">"Неверное имя пользователя или пароль. Повторите попытку.
+(Для того, щоб отримати додаткову інформацію відвідайте сторінку http://google.com/accounts/recovery?hl=ru)."</string>
+    <string name="no_network">Мережеве підключення відсутнє.</string>
+    <string name="no_network_help">Можливо, у пристрої Android тимчасова несправність або не підтримується  передавання даних. Підключіться до мобільної мережі чи мережі Wi-Fi і повторіть спробу.</string>
+    <string name="no_network_help_wifi_only">Можливо, виникла тимчасова несправність. Повторіть спробу або підключіться до іншої мережі Wi-Fi.</string>
+    <string name="error_login_failed">"Неправильне ім'я користувача або пароль. Повторіть спробу.
 
-Чтобы восстановить данные аккаунта, перейдите на страницу google.com/accounts/recovery/."</string>
-    <string name="error_account_not_verified">"Аккаунт не подтвержден. Чтобы его подтвердить, перейдите по ссылке в соответствующем сообщении электронной почты. 
+Щоб відновити дані аккаунту, перейдіть на сторінку google.com/accounts/recovery/."</string>
+    <string name="error_account_not_verified">"Аккаунт не підтверджено. Щоб його підтвердити, перейдіть за посилання у відповідному повідомленні  електронної пошти. 
 
-Чтобы восстановить данные аккаунта, откройте на компьютере страницу http://google.com/accounts/recovery?hl=ru."</string>
-    <string name="exit_menu_item">Закрыть</string>
-    <string name="creating_profile">Создание профиля...</string>
-    <string name="checking_account">Проверка доступности...</string>
-    <string name="is_not_available">Имя пользователя <b>^1</b> недоступно.</string>
-    <string name="suggestions_hint">Нажмите, чтобы увидеть варианты</string>
-    <string name="suggest_username_next_button_label">Изменить имя пользователя</string>
-    <string name="hint_size">" "<b>^1</b> содержит менее 6 или более 30 символов.</string>
-    <string name="hint_numbers_only">" "<b>^1</b> не содержит букв.</string>
-    <string name="hint_illegal_chars">" "<b>^1</b>" может содержать только буквы,
-цифры и точки."</string>
-    <string name="doesnt_use_gmail">" "<b>^1</b> не использует Gmail.</string>
-    <string name="sign_in_browser">Вход в браузере</string>
-    <string name="alternatives_list_title">Предлагаемые имена пользователя</string>
-    <string name="password_title">Создание пароля</string>
+Щоб відновити дані аккаунту, відкрийте на комп'ютері сторінку http://google.com/accounts/recovery?hl=ru."</string>
+    <string name="exit_menu_item">Закрити</string>
+    <string name="creating_profile">Створення профілю...</string>
+    <string name="checking_account">Перевірка доступності...</string>
+    <string name="is_not_available">Ім'я користувача <b>^1</b> недоступно.</string>
+    <string name="suggestions_hint">Натисніть, щоб побачити варіанти</string>
+    <string name="suggest_username_next_button_label">Змінити ім'я користувача</string>
+    <string name="hint_size">" "<b>^1</b> містить менше 6 або більше 30 символів.</string>
+    <string name="hint_numbers_only">" "<b>^1</b> не містить букв.</string>
+    <string name="hint_illegal_chars">" "<b>^1</b>" може містити тільки букви,
+цифри і крапки."</string>
+    <string name="doesnt_use_gmail">" "<b>^1</b> не використовує Gmail.</string>
+    <string name="sign_in_browser">Вхід у браузер</string>
+    <string name="alternatives_list_title">Пропоновані імена користувача</string>
+    <string name="password_title">Створення паролю</string>
     <string name="choose_a_password">Пароль</string>
-    <string name="confirm_password">Введите пароль ещё раз</string>
-    <string name="too_short">слишком короткий</string>
-    <string name="security_questions_title">Вопросы безопасности</string>
-    <string name="answer">" "<b>Ответ</b></string>
-    <string name="password_mismatch">Пароли не совпадают. Повторите попытку.</string>
-    <string name="eight_chars_min">Не менее 8 символов</string>
-    <string name="verify_your_profile">Проверка данных</string>
-    <string name="error_not_logged_in">Вход не выполнен.</string>
-    <string name="error_username_unavailable">Имя пользователя недоступно.</string>
-    <string name="error_bad_password">Пароль слишком простой или содержит недопустимые символы. Повторите попытку.</string>
-    <string name="error_bad_username">Неверное имя пользователя.</string>
-    <string name="existing_account_error_title">Аккаунт уже существует</string>
-    <string name="existing_account_error_text">На этом Android-устройстве уже есть аккаунт ^1.</string>
-    <string name="submission_title">Ошибка...</string>
-    <string name="submission_error_text">Произошла ошибка. Повторите попытку.</string>
-    <string name="sync_intro_title">Синхронизация аккаунтов</string>
-    <string name="account_tos_title">Создание аккаунта</string>
-    <string name="account_tos_plus_title">И последнее...</string>
+    <string name="confirm_password">Введіть пароль ще раз</string>
+    <string name="too_short">занадто короткий</string>
+    <string name="security_questions_title">Питання безпеки</string>
+    <string name="answer">" "<b>Відповідь</b></string>
+    <string name="password_mismatch">Паролі не співпадають. Повторіть спробу.</string>
+    <string name="eight_chars_min">Не менше 8 символів</string>
+    <string name="verify_your_profile">Перевірка даних</string>
+    <string name="error_not_logged_in">Вхід не виконано.</string>
+    <string name="error_username_unavailable">Ім'я користувача недоступно.</string>
+    <string name="error_bad_password">Пароль занадто простий або містить недопустимі символи. Повторіть спробу.</string>
+    <string name="error_bad_username">Неправильне ім'я користувача.</string>
+    <string name="existing_account_error_title">Аккаунт уже існує</string>
+    <string name="existing_account_error_text">На цьому Android-пристрої уже є аккаунт ^1.</string>
+    <string name="submission_title">Помилка...</string>
+    <string name="submission_error_text">Виникла помилка. Повторіть спробу.</string>
+    <string name="sync_intro_title">Синхронізація аккаунтів</string>
+    <string name="account_tos_title">Створення аккаунта</string>
+    <string name="account_tos_plus_title">І останнє...</string>
     <string name="i_accept">Принимаю</string>
-    <string name="i_decline">Не создавать аккаунт</string>
-    <string name="android_privacy_policy_title">Дополнительная политика конфиденциальности</string>
-    <string name="google_terms_of_service_title">Условия использования</string>
-    <string name="google_privacy_policy_title">Политика конфиденциальности Google</string>
-    <string name="google_plus_privacy_policy_title">Политика конфиденциальности Google+</string>
-    <string name="google_play_tos_title">Условия использования Google Play</string>
-    <string name="chrome_tos_title">Условия использования Chrome</string>
-    <string name="chrome_privacy_title">Примечание о конфиденциальности Chrome</string>
-    <string name="allow_personalized_content">Персонализировать контент и рекламу, показываемые в Интернете, на основе данных профиля Google.</string>
-    <string name="enable_web_history">Включить историю веб-поиска</string>
-    <string name="learn_more"><annotation id="learn_more">Подробнее...</annotation></string>
+    <string name="i_decline">Не створювати аккаунту</string>
+    <string name="android_privacy_policy_title">Додаткова політика конфіденційності</string>
+    <string name="google_terms_of_service_title">Умови використання</string>
+    <string name="google_privacy_policy_title">Політика конфіденційності Google</string>
+    <string name="google_plus_privacy_policy_title">Політика конфіденційності Google+</string>
+    <string name="google_play_tos_title">Умови використання Google Play</string>
+    <string name="chrome_tos_title">Умови використання Chrome</string>
+    <string name="chrome_privacy_title">Примітки про конфіденційність Chrome</string>
+    <string name="allow_personalized_content">Персоналізувати вміст і рекламу, які відображаються в інтернеті, на основі даних профілю Google.</string>
+    <string name="enable_web_history">Увімкнути історію веб-пошуку</string>
+    <string name="learn_more"><annotation id="learn_more">Детальніше...</annotation></string>
     <string name="account_creation_tos">Выполняя следующий шаг, вы соглашаетесь с <annotation id="tos">Условиями использования</annotation> и <annotation id="google_privacy">Политикой конфиденциальности</annotation> Google, а также <annotation id="play_tos">Условиями использования Google Play</annotation>.</string>
     <string name="account_creation_tos_with_chrome">Выполняя следующий шаг, вы соглашаетесь с <annotation id="tos">Условиями использования</annotation> и <annotation id="google_privacy">Политикой конфиденциальности</annotation> Google, <annotation id="chrome_tos">Условиями использования</annotation> и <annotation id="chrome_privacy">Примечанием о конфиденциальности</annotation> Chrome, а также <annotation id="play_tos">Условиями использования</annotation> Google Play.</string>
     <string name="gender_prompt">Пол</string>
