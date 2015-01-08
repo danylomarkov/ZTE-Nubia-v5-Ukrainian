@@ -77,44 +77,44 @@
     <string name="url_load_unsuccessful_message_wifi_only">Пристрій не підключено до мережі Wi-Fi. Щоб переглянути цю інформацію, відкрийте сторінку %s на будь-якому комп'ютері з інтернет-доступом.</string>
     <string name="field_cant_be_blank">Поле слід заповнити.</string>
     <string name="plus_query_title">Перехід на Google+</string>
-    <string name="plus_query_text">В Google+ делиться чем-нибудь интересным также легко, как в реальной жизни.</string>
-    <string name="circles_subtitle">Интересное общение</string>
-    <string name="circles_text">Добавляйте людей в круги и узнавайте, какие у вас общие интересы.</string>
-    <string name="uploads_subtitle">Автозагрузка фото и видео</string>
-    <string name="uploads_text">Без труда сохраняйте свои снимки и видеоролики сразу после съемки в бесплатном закрытом альбоме.</string>
-    <string name="huddle_subtitle">Видеовызовы и обмен сообщениями</string>
-    <string name="huddle_text">Hangouts делает общение более ярким. Добавляйте в чат фотографии и устраивайте групповые видеовстречи.</string>
-    <string name="plus_declined_button_label">Не сейчас</string>
-    <string name="plus_accepted_button_label">Начало работы</string>
-    <string name="plus_name_check_title">Проверка данных...</string>
-    <string name="plus_name_check_text">Это может занять несколько минут.</string>
-    <string name="plus_faq_title">Добро пожаловать в Google+!</string>
-    <string name="plus_faq_text" formatted="false">"В Google+ у вас будет общедоступный профиль, который поможет вашим друзьям легко находить вас в Интернете. Любой, кто знает ваш адрес электронной почты, может отыскать и просмотреть этот профиль.
+    <string name="plus_query_text">У Google+ ділитися чимось цікавим так само легко, як у реальному житті.</string>
+    <string name="circles_subtitle">Цікаве спілкування</string>
+    <string name="circles_text">Додавайте людей у кола і дізнавайтеся, які у вас спільні інтереси.</string>
+    <string name="uploads_subtitle">Автозавантаження фото і відео</string>
+    <string name="uploads_text">Без зусиль зберігайте свої знімки і відеоролики відразу після знімання у безплатному закритому альбомі.</string>
+    <string name="huddle_subtitle">Відеовиклики і обмін повідомленнями</string>
+    <string name="huddle_text">Hangouts робить спілкування яскравішим. Додавайте в чат фотографії і влаштовуйте групові відеозустрічі.</string>
+    <string name="plus_declined_button_label">Не зараз</string>
+    <string name="plus_accepted_button_label">Початок роботи</string>
+    <string name="plus_name_check_title">Перевірка даних...</string>
+    <string name="plus_name_check_text">Це може зайняти декілька хвилин.</string>
+    <string name="plus_faq_title">Ласкаво просимо в Google+!</string>
+    <string name="plus_faq_text" formatted="false">"В Google+ у вас буде загальнодоступний профіль, який допоможе вашим друзям легко знаходити вас в інтернеті. Всі, хто знає вашу адресу електронної пошти, може відшукати і переглянути цей профіль.
 
-Используйте кнопку +1, чтобы рекомендовать интересные интернет-находки. Ваши рекомендации и профиль будут видны всем в результатах поиска, объявлениях и по всему Интернету.
+Використовуйте кнопку +1, щоб рекомендувати цікаві інтернет-знахідки. Ваші рекомендації і профіль будуть видимі всім в результатах пошуку, оголошеннях і у всьому інтернеті.
 
-Сейчас в профиле отображается только ваше имя (%s %s). Если хотите, добавьте туда фотографии, информацию о себе и другие данные."</string>
-    <string name="dasher_warning">Администратор домена %s имеет доступ ко всем вашим данным в Google+ и может удалить или изменить ваш профиль в любое время без предупреждения.</string>
-    <string name="profile_info_title">Ваш профиль</string>
-    <string name="profile_text">Укажите основные сведения для профиля. Добавить другие данные и фото можно будет позже, в ходе работы с Google+.</string>
-    <string name="occupation">Род занятий</string>
-    <string name="current_city">Место проживания (город)</string>
-    <string name="picassa_info_title">Picasa и Google+</string>
-    <string name="picassa_info_text" formatted="false">В Google+ будут доступны фото и видео, добавленные вами в Веб-альбомы Picasa. Кроме того, рядом с вашими комментариями будет указано имя %s %s, а не %s. Пользователи Google+ смогут публиковать в своих лентах фотографии, которыми вы с ними поделились. Уровень доступа к альбомам не изменится, но вы в любой момент можете изменить параметры общего доступа и запретить другим делиться ими.</string>
-    <string name="name_title">Как вас зовут?</string>
-    <string name="name_title_plus">Полное имя в Google+</string>
-    <string name="name_title_local">Владелец телефона</string>
-    <string name="name_text">Ваше имя используется для персонализации телефона и сервисов Google.</string>
-    <string name="name_text_local">Ваше имя используется для персонализации приложений на устройстве.</string>
-    <string name="name_progress_title">Подождите…</string>
-    <string name="bad_name_title">Использовать это имя?</string>
-    <string name="invalid_name_title">Нельзя использовать это имя</string>
+Зараз у профілі відображається тільки ваше ім'я (%s %s). Якщо бажаєте, додайте туди фотографії, інформацію про себе та інші дані."</string>
+    <string name="dasher_warning">Адміністратор домену %s володіє доступом  до всіх ваших даних у Google+ і може стерти чи змінити ваш профіль у будь-який час без попередження.</string>
+    <string name="profile_info_title">Ваш профіль</string>
+    <string name="profile_text">Вкажіть основні відомості для профілю. Додати інші дані і фото можна буде пізніше, під час роботи з Google+.</string>
+    <string name="occupation">Рід занять</string>
+    <string name="current_city">Місце проживання (місто)</string>
+    <string name="picassa_info_title">Picasa і Google+</string>
+    <string name="picassa_info_text" formatted="false">В Google+ будуть доступні фото і відео, додані вами у Веб-альбоми Picasa. Крім того, рядом з вашими коментарями буде вказано ім'я %s %s, а не %s. Користувачі Google+ зможуть публікувати в своїх стрічках фотографії, якими ви з ними поділилися. Рівень доступу до альбомів не зміниться, але ви у будь-який момент можете змінити параметри спільного доступу і заборонити іншим ділитися ними.</string>
+    <string name="name_title">Як вас звати?</string>
+    <string name="name_title_plus">Повне ім'я в Google+</string>
+    <string name="name_title_local">Власник телефону</string>
+    <string name="name_text">Ваше ім'я використовується для персоналізації телефону і сервісів Google.</string>
+    <string name="name_text_local">Ваше ім'я використовується для персоналізації додатків на пристрої.</string>
+    <string name="name_progress_title">Зачекайте…</string>
+    <string name="bad_name_title">Використовувати це ім'я?</string>
+    <string name="invalid_name_title">Не можна  використовувати це ім'я</string>
     <string name="bad_name_display">%1$s %2$s</string>
-    <string name="bad_name_text">"Если вы хотите использовать это имя в Google+, нам потребуется проверить его. Если оно нарушает наши правила, ваш профиль будет заблокирован. В результате будет ограничен функционал тех сервисов Google, для которых требуется активный профиль.
+    <string name="bad_name_text">"Якщо ви бажаєте використовувати це ім'я в Google+, нам потрібно перевірити його. Якщо воно порушує наші правила, ваш профіль буде заблоковано. В результаті буде обмежено функціонал тих сервісів Google, для яких потребується активний профіль.
 
-"<annotation id="learn_more">Подробнее...</annotation></string>
-    <string name="invalid_name_text">Это имя нельзя использовать в Google+, так как оно содержит недопустимые символы.</string>
-    <string name="invalid_nickname_text">Это имя нельзя использовать в Google+, так как оно содержит недопустимые символы. Если вы хотите указать псевдоним, другое имя или звание, добавьте его в профиль после регистрации.</string>
+"<annotation id="learn_more">Детальніше...</annotation></string>
+    <string name="invalid_name_text">Це ім'я не можна використовувати в Google+, оскільки  воно містить недопустимі символи.</string>
+    <string name="invalid_nickname_text">Це ім'я не можна використовувати в Google+, оскільки  воно містить недопустимі символи. Якщо бажаєте вказати псевдонім,інше ім'я або звання, додайте його в профіль після реєстрації.</string>
     <string name="invalid_other_text">Нельзя использовать это имя в Google+.</string>
     <string name="bad_name_agree_text">Я принимаю условия и хочу использовать это имя.</string>
     <string name="bad_name_decline_button_label">Изменить имя</string>
