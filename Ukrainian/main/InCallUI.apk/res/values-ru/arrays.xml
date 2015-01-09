@@ -6,49 +6,49 @@
     </string-array>
     <string-array name="ims_call_types">
         <item>Голос</item>
-        <item>Видео</item>
+        <item>Відео</item>
     </string-array>
     <string-array name="clir_display_values">
-        <item>Настройки сети по умолчанию</item>
-        <item>Скрыть номер</item>
-        <item>Показывать номер</item>
+        <item>Налаштування мережі за замовчуванням</item>
+        <item>Приховати номер</item>
+        <item>Показувати номер</item>
     </string-array>
     <string-array name="preferred_network_mode_choices">
         <item>LTE/WCDMA</item>
         <item>LTE</item>
-        <item>Глобальный</item>
+        <item>Глобальний</item>
         <item>GSM/WCDMA/LTE</item>
         <item>CDMA + LTE/EvDo</item>
         <item>CDMA/EvDo/GSM/WCDMA</item>
-        <item>Только EvDo</item>
+        <item>Лише EvDo</item>
         <item>CDMA без EvDo</item>
         <item>CDMA/EvDo авто</item>
         <item>GSM/WCDMA авто</item>
-        <item>Только WCDMA</item>
-        <item>Только GSM</item>
-        <item>GSM/WCDMA предпочтительно</item>
+        <item>Лише WCDMA</item>
+        <item>Лише GSM</item>
+        <item>GSM/WCDMA переважно</item>
     </string-array>
     <string-array name="list_language_entries">
-        <item>Английский</item>
-        <item>Французский</item>
-        <item>Испанский</item>
-        <item>Японский</item>
-        <item>Корейский</item>
-        <item>Китайский</item>
-        <item>Иврит</item>
+        <item>Англійська</item>
+        <item>Французька</item>
+        <item>Іспанська</item>
+        <item>Японська</item>
+        <item>Корейська</item>
+        <item>Китайська</item>
+        <item>Іврит</item>
     </string-array>
     <string-array name="cdma_system_select_choices">
-        <item>Только домашняя</item>
-        <item>Автоматически</item>
+        <item>Лише домашня</item>
+        <item>Автоматично</item>
     </string-array>
     <string-array name="tty_mode_entries">
-        <item>TTY выкл.</item>
-        <item>Режим TTY полный</item>
+        <item>TTY вимк.</item>
+        <item>Режим TTY повний</item>
         <item>TTY HCO</item>
         <item>TTY VCO</item>
     </string-array>
     <string-array name="dtmf_tone_entries">
-        <item>Обычные</item>
-        <item>Длинные</item>
+        <item>Звичайні</item>
+        <item>Довгі</item>
     </string-array>
 </resources>
