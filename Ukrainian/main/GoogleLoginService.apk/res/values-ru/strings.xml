@@ -157,7 +157,7 @@
     <string name="invalid_username">Недопустиме ім'я користувача.</string>
     <string name="captcha_instructions">Введіть текст, який бачите на картинці.</string>
     <string name="create_google_account">Вибір ім'я користувача</string>
-    <string name="create_google_account_text">За допомогою свого аккаунту ви можете користуватися Gmail – службою електронної пошти від Google. Вона працює на будь-яких пристроях, надійно захищає від спаму та має багато інших переваг.</string>
+    <string name="create_google_account_text">За допомогою свого аккаунту ви можете користуватися Gmail – службою електронної пошти від Google. Вона працює на будь-яких пристроях, надійно захищає від спаму та має багато інших переваг.</string>
     <string name="account_already_has_gmail">У аккаунту вже є Gmail.</string>
     <string name="error_account_disabled">"Цей аккаунт було відключено.
 
@@ -216,52 +216,52 @@
     <string name="allow_personalized_content">Персоналізувати вміст і рекламу, які відображаються в інтернеті, на основі даних профілю Google.</string>
     <string name="enable_web_history">Увімкнути історію веб-пошуку</string>
     <string name="learn_more"><annotation id="learn_more">Детальніше...</annotation></string>
-    <string name="account_creation_tos">Выполняя следующий шаг, вы соглашаетесь с <annotation id="tos">Условиями использования</annotation> и <annotation id="google_privacy">Политикой конфиденциальности</annotation> Google, а также <annotation id="play_tos">Условиями использования Google Play</annotation>.</string>
-    <string name="account_creation_tos_with_chrome">Выполняя следующий шаг, вы соглашаетесь с <annotation id="tos">Условиями использования</annotation> и <annotation id="google_privacy">Политикой конфиденциальности</annotation> Google, <annotation id="chrome_tos">Условиями использования</annotation> и <annotation id="chrome_privacy">Примечанием о конфиденциальности</annotation> Chrome, а также <annotation id="play_tos">Условиями использования</annotation> Google Play.</string>
+    <string name="account_creation_tos">Виконавши наступний крок, ви погодитеся з  <annotation id="tos">умовами використання</annotation> і <annotation id="google_privacy">політикою конфіденційності</annotation> Google, а також <annotation id="play_tos">умовами використанняGoogle Play</annotation>.</string>
+    <string name="account_creation_tos_with_chrome">Виконавши наступний крок, ви погодитеся з  <annotation id="tos">умовами використання</annotation> і <annotation id="google_privacy">політикою конфіденційності</annotation> Google, <annotation id="chrome_tos">умовами використання</annotation> і <annotation id="chrome_privacy">примітками конфіденційності</annotation> Chrome, а також <annotation id="play_tos">умовами використання</annotation> Google Play.</string>
     <string name="gender_prompt">Пол</string>
     <string name="gender_hint">Пол</string>
-    <string name="account_pre_intro_title">Добавление аккаунта Google</string>
-    <string name="account_pre_intro_default_message">"Есть ли у вас аккаунт Google?
+    <string name="account_pre_intro_title">Додавання аккаунту Google</string>
+    <string name="account_pre_intro_default_message">"У вас є аккаунт Google?
 
-Если вы пользуетесь Gmail или Google Apps, выберите \"Да\"."</string>
-    <string name="account_pre_intro_yes">Да</string>
-    <string name="account_pre_intro_no">Нет</string>
+Якщо ви користуєтеся Gmail чи Google Apps, виберіть\"Так\"."</string>
+    <string name="account_pre_intro_yes">Так</string>
+    <string name="account_pre_intro_no">Ні</string>
     <string name="account_intro_title">Аккаунт Google</string>
-    <string name="account_intro_required_title">Технологии Google</string>
-    <string name="account_intro_recommended_title">Настройка аккаунта Google</string>
-    <string name="account_intro_default_message">Теперь вы не потеряете свои данные – все будет храниться в аккаунте Google!</string>
-    <string name="account_intro_simple_message">Добавить существующий аккаунт или создать новый?</string>
-    <string name="account_intro_learn_more">Подробнее…</string>
-    <string name="learn_more_title">Подробнее...</string>
-    <string name="learn_more_account_intro">"Благодаря аккаунту Google вы можете:
+    <string name="account_intro_required_title">Технології Google</string>
+    <string name="account_intro_recommended_title">Налаштування аккаунта Google</string>
+    <string name="account_intro_default_message">Тепер ви не втратите свої дані – все буде зберігатися в аккаунті Google!</string>
+    <string name="account_intro_simple_message">Додати створений  аккаунт чи створити новий?</string>
+    <string name="account_intro_learn_more">Детальніше…</string>
+    <string name="learn_more_title">Детальніше...</string>
+    <string name="learn_more_account_intro">"Завдяки аккаунту Google ви можете:
 
-"<li><ul>работать со своими данными (включая историю поиска) на любом устройстве;</ul></li>"
+"<li><ul>працювати зі своїми даними (включно з історією пошуку) на будь-якому пристрої;</ul></li>"
 
-"<li><ul>автоматически создавать резервные копии данных из аккаунта (например, сообщений электронной почты, контактов, музыки и изображений);</ul></li>"
+"<li><ul>автоматична створювати резервні копії даних із аккаунту (наприклад, повідомлень електронної пошти, контактів, музики і зображень);</ul></li>"
 
-"<li><ul>использовать сервисы Google, такие как Контакты, Календарь и Карты, где бы вы ни находились.</ul></li></string>
-    <string name="learn_more_account_intro_title">Об аккаунтах Google</string>
-    <string name="learn_more_bad_name">Используйте в Google+ свое настоящее имя. Профиль должен представлять одного человека (а не компанию, организацию или семью) и содержать ваше имя и фамилию на одном языке без титулов, званий или пунктуационных знаков. После регистрации псевдонимы и другие имена можно указать в разделе \"Другие имена\".</string>
-    <string name="learn_more_bad_name_title">О политике в отношении имен</string>
-    <string name="wait_for_device_country_title">Настройка аккаунта</string>
-    <string name="wait_for_device_country_msg">Сбор сведений о телефоне. Это может занять до 30 секунд.</string>
-    <string name="recovery_title">Восстановление пароля аккаунта Google</string>
-    <string name="recovery_wait_title">Подождите…</string>
-    <string name="cannot_talk_to_server_msg">Не удалось установить связь с сервером Google</string>
-    <string name="recovery_skip_label">Пропустить</string>
-    <string name="recovery_retry_label">Повторить</string>
-    <string name="recovery_message_set">"Все, кто когда-нибудь забывал пароль, знают, как важно иметь возможность его восстановить.
+"<li><ul>використовувати сервіси Google, такі як Контакти, Календар і Карти, де б ви не знаходилися.</ul></li></string>
+    <string name="learn_more_account_intro_title">Про аккаунти Google</string>
+    <string name="learn_more_bad_name">Використовуйте в Google+ своє справжнє ім'я. Профіль повинен представляти одну людину(а не компанію, організацію чи сім'ю) і містити ваше ім'я і прізвище на одній мові без титулів, звань чи знаків пунктуації. Після реєстрації псевдоніми та інші  імена можна вказати в розділі \"Інші імена\".</string>
+    <string name="learn_more_bad_name_title">Про політику імен</string>
+    <string name="wait_for_device_country_title">Налаштування аккаунту</string>
+    <string name="wait_for_device_country_msg">Збір відомостей про телефон. Це може зайняти до 30 секунд.</string>
+    <string name="recovery_title">Відновлення пароля аккаунту Google</string>
+    <string name="recovery_wait_title">Зачекайте…</string>
+    <string name="cannot_talk_to_server_msg">Не вдалося встановить зв'язок із сервером Google</string>
+    <string name="recovery_skip_label">Пропустити</string>
+    <string name="recovery_retry_label">Повторити</string>
+    <string name="recovery_message_set">"Всі, хто коли-небудь забував пароль, знають, як важливо мати можливість його відновити.
 
-В Google это можно сделать с помощью SMS или письма на дополнительный адрес электронной почты.
+В Google це можна зробити за допомогою SMS чи листа на додаткову  адресу електронної пошти.
 
-Мы настоятельно рекомендуем настроить соответствующие параметры. "<annotation id="help_url">Подробнее…</annotation></string>
-    <string name="recovery_message_verify">"Пароли иногда забываются.
+Ми наполегливо рекомендуємо налаштувати відповідні параметри. "<annotation id="help_url">Детальніше…</annotation></string>
+    <string name="recovery_message_verify">"Паролі іноді бувають забуті.
 
-Подтвердите номер телефона или дополнительный адрес электронной почты, чтобы при необходимости легко восстановить доступ к своим данным в Google и Google Play. "<annotation id="help_url">Подробнее…</annotation></string>
-    <string name="recovery_yes_button_label">Настроить параметры</string>
-    <string name="recovery_yes_button_label_verify">Подтвердить</string>
-    <string name="recovery_later_button_label">Не сейчас</string>
-    <string name="recovery_input_screen_message">Эта информация служит для восстановления доступа к приложению \"%s\".</string>
+Підтвердіть номер телефону чи додаткову адресу електронної пошти, щоб у випадку необхідності легко відновити доступ до своїх даних в Google і Google Play. "<annotation id="help_url">Детальніше…</annotation></string>
+    <string name="recovery_yes_button_label">Налаштувати параметри</string>
+    <string name="recovery_yes_button_label_verify">Підтвердити</string>
+    <string name="recovery_later_button_label">Не зараз</string>
+    <string name="recovery_input_screen_message">Ця інформація призначена для відновлення доступу до додатку \"%s\".</string>
     <string name="secondary_email_hint">Дополнит. адрес эл. почты</string>
     <string name="secondary_email_invalid">Недопустимый адрес эл. почты</string>
     <string name="secondary_email_same_as_primary">Не может совпадать с основным</string>
@@ -339,7 +339,7 @@
     <string name="services_personalization_heading">Персонализация</string>
     <string name="services_communication_heading">Рассылка</string>
     <string name="security_verify_apps_summary">Google будет следить за тем, чтобы установленные приложения не нарушали безопасность устройства и данных.</string>
-    <string name="backup_consent_yes_agree">Аккаунт Google можно будет использовать для создания резервных копий приложений, настроек (закладок, паролей Wi-Fi и т. п.) и других данных.</string>
+    <string name="backup_consent_yes_agree">Аккаунт Google можно будет использовать для создания резервных копий приложений, настроек (закладок, паролей Wi-Fi и т. п.) и других данных.</string>
     <string name="restore_consent_yes_agree">На этом телефоне можно будет восстановить приложения, настройки и другие данные из резервных копий в аккаунте Google.</string>
     <string name="audit_logging_summary">В Google будут автоматически отправляться данные о событиях и диагностике вашего устройства. Это поможет нам защитить его и улучшить наши продукты.</string>
     <string name="no_back_msg">Не удалось вернуться к предыдущему шагу</string>
