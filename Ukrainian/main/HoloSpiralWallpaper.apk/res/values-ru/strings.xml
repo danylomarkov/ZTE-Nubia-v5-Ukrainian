@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="wallpaper_label">Голографические спирали</string>
+    <string name="wallpaper_label">Голографічні спіралі</string>
     <string name="wallpaper_author">Google</string>
-    <string name="wallpaper_description">Обои с голографическими спиралями</string>
+    <string name="wallpaper_description">Шпалери з голографічними спіралями</string>
 </resources>
