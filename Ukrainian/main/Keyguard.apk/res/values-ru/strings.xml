@@ -82,114 +82,115 @@
     <string name="keyboardview_keycode_cancel">Скасувати</string>
     <string name="keyboardview_keycode_delete">Клавіша стирання</string>
     <string name="keyboardview_keycode_done">Готово</string>
-    <string name="keyboardview_keycode_mode_change">Клавиша смены режима</string>
-    <string name="keyboardview_keycode_shift">Клавиша смены регистра</string>
-    <string name="keyboardview_keycode_enter">Клавиша ввода</string>
-    <string name="description_target_unlock">Разблокировать</string>
+    <string name="keyboardview_keycode_mode_change">Клавіша зміни режиму</string>
+    <string name="keyboardview_keycode_shift">Клавіша зміни  регістру</string>
+    <string name="keyboardview_keycode_enter">Клавіша вводу</string>
+    <string name="description_target_unlock">Розблокувати</string>
     <string name="description_target_camera">Камера</string>
-    <string name="description_target_silent">Без звука</string>
-    <string name="description_target_soundon">Включить звук</string>
-    <string name="description_target_search">Поиск</string>
-    <string name="description_direction_up">Проведите вверх, чтобы %s.</string>
-    <string name="description_direction_down">Проведите вниз, чтобы %s.</string>
-    <string name="description_direction_left">Проведите влево, чтобы %s.</string>
-    <string name="description_direction_right">Проведите вправо, чтобы %s.</string>
-    <string name="user_switched">Выбран аккаунт пользователя %1$s.</string>
-    <string name="kg_emergency_call_label">Экстренный вызов</string>
-    <string name="kg_forgot_pattern_button_text">Забыли графический ключ?</string>
-    <string name="kg_wrong_pattern">Неправильный графический ключ</string>
-    <string name="kg_wrong_password">Неправильный пароль</string>
-    <string name="kg_wrong_pin">Неправильный PIN-код</string>
-    <string name="kg_too_many_failed_attempts_countdown">Повторите попытку через %d сек.</string>
-    <string name="kg_pattern_instructions">Введите графический ключ</string>
-    <string name="kg_sim_pin_instructions">Введите PIN-код SIM-карты</string>
-    <string name="kg_pin_instructions">Введите PIN</string>
-    <string name="kg_password_instructions">Введите пароль</string>
-    <string name="kg_puk_enter_puk_hint">SIM-карта заблокирована. Чтобы продолжить, введите PUK-код. За подробной информацией обратитесь к своему оператору связи.</string>
-    <string name="kg_puk_enter_pin_hint">Введите желаемый PIN-код</string>
-    <string name="kg_enter_confirm_pin_hint">Введите PIN-код ещё раз</string>
-    <string name="kg_sim_unlock_progress_dialog_message">Разблокировка SIM-карты…</string>
-    <string name="kg_invalid_sim_pin_hint">Введите PIN-код (от 4 до 8 цифр).</string>
-    <string name="kg_invalid_sim_puk_hint">PUK-код должен содержать не менее 8 символов.</string>
-    <string name="kg_invalid_puk">Введите правильный PUK-код. После нескольких неудачных попыток SIM-карта будет заблокирована.</string>
-    <string name="kg_invalid_confirm_pin_hint">PIN-коды не совпадают</string>
-    <string name="kg_login_too_many_attempts">Слишком много попыток ввода графического ключа</string>
-    <string name="kg_login_instructions">Чтобы разблокировать устройство, войдите в свой аккаунт Google.</string>
-    <string name="kg_login_username_hint">Имя пользователя (эл. почта)</string>
+    <string name="description_target_silent">Без звуку</string>
+    <string name="description_target_soundon">Увімкнути звук</string>
+    <string name="description_target_search">Пошук</string>
+    <string name="description_direction_up">Проведіть вверх, щоб %s.</string>
+    <string name="description_direction_down">Проведіть вниз, щоб %s.</string>
+    <string name="description_direction_left">Проведіть вліво, щоб %s.</string>
+    <string name="description_direction_right">Проведіть вправо, щоб %s.</string>
+    <string name="user_switched">Вибрано аккаунт користувача %1$s.</string>
+    <string name="kg_emergency_call_label">Екстрений виклик</string>
+    <string name="kg_forgot_pattern_button_text">Забули графічний ключ?</string>
+    <string name="kg_wrong_pattern">Неправильний графічний ключ</string>
+    <string name="kg_wrong_password">Неправильний пароль</string>
+    <string name="kg_wrong_pin">Неправильний PIN-код</string>
+    <string name="kg_too_many_failed_attempts_countdown">Повторіть спробу через %d сек.</string>
+    <string name="kg_pattern_instructions">Введіть графічний ключ</string>
+    <string name="kg_sim_pin_instructions">Введіть PIN-код SIM-карты</string>
+    <string name="kg_pin_instructions">Введіть PIN</string>
+    <string name="kg_password_instructions">Введіть пароль</string>
+    <string name="kg_puk_enter_puk_hint">SIM-карта заблокована. Щоб продовжити, введіть PUK-код. За детальнішою інформацією зверніться до свого оператора зв'язку.</string>
+    <string name="kg_puk_enter_pin_hint">Введіть бажаний PIN-код</string>
+    <string name="kg_enter_confirm_pin_hint">Введіть PIN-код ще раз</string>
+    <string name="kg_sim_unlock_progress_dialog_message">Розблокування SIM-карти…</string>
+    <string name="kg_invalid_sim_pin_hint">Введіть PIN-код (від 4 до 8 цифр).</string>
+    <string name="kg_invalid_sim_puk_hint">PUK-код повинен містити не менше 8 символів.</string>
+    <string name="kg_invalid_puk">Введіть правильний PUK-код. Після декількох невдалих спроб SIM-карта буде заблокована.</string>
+    <string name="kg_invalid_confirm_pin_hint">PIN-коди не співпадають </string>
+    <string name="kg_login_too_many_attempts">Занадто багато спроб вводу графічного ключа</string>
+    <string name="kg_login_instructions">Щоб розблокувати пристрій, увійдіть у свій аккаунт Google.</string>
+    <string name="kg_login_username_hint">Ім'я користувача(ел. пошта)</string>
     <string name="kg_login_password_hint">Пароль</string>
-    <string name="kg_login_submit_button">Войти</string>
-    <string name="kg_login_invalid_input">Неверное имя пользователя или пароль.</string>
-    <string name="kg_login_account_recovery_hint">"Забыли имя пользователя или пароль?
-Перейдите на страницу "<b>google.com/accounts/recovery</b>.</string>
-    <string name="kg_login_checking_password">Проверка данных…</string>
-    <string name="kg_too_many_failed_pin_attempts_dialog_message" formatted="false">"Вы %d раз неверно указали PIN-код. 
+    <string name="kg_login_submit_button">Увійти</string>
+    <string name="kg_login_invalid_input">Неправильне ім'я користувача чи пароль.</string>
+    <string name="kg_login_account_recovery_hint">"Забули ім'я користувача чи пароль?
+Перейдіть на сторінку "<b>google.com/accounts/recovery</b>.</string>
+    <string name="kg_login_checking_password">Перевірка даних…</string>
+    <string name="kg_too_many_failed_pin_attempts_dialog_message" formatted="false">"Ви %d разів неправильно вказали PIN-код. 
 
 Повтор через %d сек."</string>
-    <string name="kg_too_many_failed_password_attempts_dialog_message" formatted="false">"Вы %d раз неверно указали пароль.
+    <string name="kg_too_many_failed_password_attempts_dialog_message" formatted="false">"Ви %d разів неправильно вказали пароль.
 
 Повтор через %d сек."</string>
-    <string name="kg_too_many_failed_pattern_attempts_dialog_message" formatted="false">"Вы %d раз неверно указали графический ключ.
+    <string name="kg_too_many_failed_pattern_attempts_dialog_message" formatted="false">"Ви %d разів неправильно указали графічний ключ.
 
 Повтор через %d сек."</string>
-    <string name="kg_failed_attempts_almost_at_wipe" formatted="false">Вы %d раз не смогли разблокировать телефон. После %d неверных попыток будут восстановлены заводские настройки, что приведет к удалению всех пользовательских данных.</string>
-    <string name="kg_failed_attempts_now_wiping">Вы %d раз не смогли разблокировать телефон. Будут восстановлены заводские настройки.</string>
-    <string name="kg_failed_attempts_almost_at_login" formatted="false">"Вы %d раз неверно указали графический ключ. После %d неверных попыток для разблокировки телефона потребуется войти в аккаунт Google.\n\nПовтор через %d сек."</string>
+    <string name="kg_failed_attempts_almost_at_wipe" formatted="false">Ви %d разів не змогли розблокувати телефон. Після %d невдалих спроб будуть відновлені заводські налаштування, що призведе до стирання всіх даних користувача.</string>
+    <string name="kg_failed_attempts_now_wiping">Ви %d разів не змогли розблокувати телефон. Будуть відновлені заводські налаштування.</string>
+    <string name="kg_failed_attempts_almost_at_login" formatted="false">"Ви %d разів неправильно вказали графічний ключ.  Після %d невдалих спроб для розблокування телефону потрібно буде увійти в аккаунт Google.\n\nПовтор через %d сек."</string>
     <string name="kg_text_message_separator">" — "</string>
-    <string name="kg_reordering_delete_drop_target_text">Удалить</string>
-    <string name="kg_password_wrong_pin_code_pukked">Неверный PIN-код. Обратитесь к оператору связи, чтобы разблокировать SIM-карту.</string>
-    <string name="kg_password_wrong_puk_code_dead">SIM-карта заблокирована навсегда. Обратитесь к оператору связи.</string>
-    <string name="kg_password_pin_failed">Не удалось разблокировать SIM-карту</string>
-    <string name="kg_password_puk_failed">Не удалось разблокировать SIM-карту</string>
-    <string name="kg_pin_accepted">Код принят!</string>
-    <string name="keyguard_transport_prev_description">Кнопка перехода к предыдущему треку</string>
-    <string name="keyguard_transport_next_description">Кнопка перехода к следующему треку</string>
-    <string name="keyguard_transport_pause_description">Кнопка паузы</string>
-    <string name="keyguard_transport_play_description">Кнопка воспроизведения</string>
-    <string name="keyguard_transport_stop_description">Кнопка выключения</string>
-    <string name="keyguard_carrier_default">Нет сигнала.</string>
+    <string name="kg_reordering_delete_drop_target_text">Стерти</string>
+    <string name="kg_password_wrong_pin_code_pukked">Неправильний PIN-код. Зверніться до оператора зв'язку, щоб розблокувати SIM-карту.</string>
+    <string name="kg_password_wrong_puk_code_dead">SIM-карта заблокована назавжди. Зверніться до оператора зв'язку.</string>
+    <string name="kg_password_pin_failed">Не вдалося розблокувати SIM-карту</string>
+    <string name="kg_password_puk_failed">Не вдалося розблокувати SIM-карту</string>
+    <string name="kg_pin_accepted">Код прийнято!</string>
+    <string name="keyguard_transport_prev_description">Кнопка переходу до попереднього треку</string>
+    <string name="keyguard_transport_next_description">Кнопка переходу до наступного треку</string>
+    <string name="keyguard_transport_pause_description">Кнопка паузи</string>
+    <string name="keyguard_transport_play_description">Кнопка відтворення</string>
+    <string name="keyguard_transport_stop_description">Кнопка вимкнення</string>
+    <string name="keyguard_carrier_default">Немає сигналу.</string>
     <string name="msim_kg_sim_pin_msg_format" formatted="false">Тема:%d : %s.</string>
     <string name="msim_carrier_text_format" formatted="false">%s, %s</string>
-    <string name="unlock">Разблокировать</string>
+    <string name="unlock">Розблокувати</string>
     <string name="message_separator">—</string>
-    <string name="charging">Идёт зарядка (%d%%)</string>
-    <string name="charged">Батарея заряжена</string>
-    <string name="low_battery">Подключите зарядное устройство</string>
-    <string name="card_exit">Выход</string>
-    <string name="card_cancel">Отмена</string>
-    <string name="send_card_test">Отправить</string>
-    <string name="type_to_compose_text_enter_to_send">Введите сообщение</string>
-    <string name="type_to_compose_text_enter_to_send2">Детка, введи сообщение</string>
-    <string name="type_to_compose_text_enter_to_send3">Детка, тебе нужно ввести что-нибудь</string>
-    <string name="type_to_compose_text_enter_to_send4">Ты псих?</string>
+    <string name="charging">Заряджання (%d%%)</string>
+    <string name="charged">Батарея заряджена</string>
+    <string name="low_battery">Під'єднайте зарядний пристрій</string>
+    <string name="card_exit">Вихід</string>
+    <string name="card_cancel">Скасувати</string>
+    <string name="send_card_test">Надіслати</string>
+    <string name="type_to_compose_text_enter_to_send">Введіть повідомлення</string>
+    <string name="type_to_compose_text_enter_to_send2">Введіть повідомлення, будь ласка</string>
+    <string name="type_to_compose_text_enter_to_send3">Будь ласка, введіть повідомлення!!!</string>
+    <string name="type_to_compose_text_enter_to_send4">Ну будь ласочка, введіть текст!!!</string>
     <string name="unlock_to_cam">Камера</string>
-    <string name="unlock_normal">Разблокировать</string>
-    <string name="messages_slide_up_tips">Сдвиньте для просмотра сообщений</string>
-    <string name="lockscreen_battery_charged">Батарея заряжена</string>
-    <string name="lockscreen_battery_charging">Идёт зарядка</string>
-    <string name="lockscreen_battery_low">Низкий заряд батареи</string>
-    <string name="lockscreen_battery_overheatorclod">Аномальная температура</string>
+    <string name="unlock_normal">Розблокувати</string>
+    <string name="messages_slide_up_tips">Пересуньте для перегляду повідомлення</string>
+    <string name="lockscreen_battery_charged">Батарея заряджена</string>
+    <string name="lockscreen_battery_charging">Заряджання</string>
+    <string name="lockscreen_battery_low">Низький заряд батареї</string>
+    <string name="lockscreen_battery_overheatorclod">Аномальна температура</string>
     <string name="lockscreen_battery_precent">%d%%</string>
     <string name="helloname">AiLin</string>
     <string name="lockscreen_sms_conversation_count">( %d )</string>
-    <string name="lockscreen_privacy_sms_tips">У вас есть новое сообщение!</string>
-    <string name="lockscreen_miss_call_tips">Пропущенный звонок</string>
-    <string name="card_mms_message_content">Получено %d новых сообщений</string>
-    <string name="card_thirdapp_message_content">У вас есть новое сообщение!</string>
-    <string name="lockscreen_setting_title">Фото экрана блокировки</string>
-    <string name="lockscreen_app_list_title">Будут отображаться</string>
-    <string name="app_notification_preferences">Уведомление приложений</string>
-    <string name="title_lockscreen_preference">Уведомление блокировки экрана</string>
+    <string name="lockscreen_privacy_sms_tips">У вас 
+є нове повідомлення!</string>
+    <string name="lockscreen_miss_call_tips">Пропущений дзвінок</string>
+    <string name="card_mms_message_content">Отримано %d нових повідомлень</string>
+    <string name="card_thirdapp_message_content">У вас є нове повідомлення!</string>
+    <string name="lockscreen_setting_title">Фото екрану блокування</string>
+    <string name="lockscreen_app_list_title">Будуть відображатися</string>
+    <string name="app_notification_preferences">Сповіщення додатків</string>
+    <string name="title_lockscreen_preference">Сповіщення блокування екрану</string>
     <string name="photo_flow_preference">PhotoFlow</string>
-    <string name="title_photo_flow_preference">Фото на экран блокировки</string>
-    <string name="title_photo_flow_time_preference">Время воспроизведения</string>
-    <string name="title_photo_flow_select_preference">Выберите папку</string>
-    <string name="save_password_label">Ввод</string>
+    <string name="title_photo_flow_preference">Фото на екран блокування</string>
+    <string name="title_photo_flow_time_preference">Час відтворення</string>
+    <string name="title_photo_flow_select_preference">Виберіть папку</string>
+    <string name="save_password_label">Ввід</string>
     <string name="sys_china_mobile">China Mobile</string>
     <string name="sys_china_telecom">China Telecom</string>
     <string name="sys_china_unicom">China Unicom</string>
-	<string name="keyguard_airplane_mode_string">В самолёте</string>
-    <string name="app_name">Экран блокировки Nubia</string>
-    <string name="hello">Привет, мир!</string>
-    <string name="keyguard_sim_locked_message_dural">SIM-карта%d заблокирована.</string>
-    <string name="keyguard_sim_puk_locked_message_dural">SIM-карта%d заблокирована PUK-кодом.</string>
+	<string name="keyguard_airplane_mode_string">У літаку</string>
+    <string name="app_name">Екран блокування Nubia</string>
+    <string name="hello">Привіт, світе!</string>
+    <string name="keyguard_sim_locked_message_dural">SIM-карта%d заблокована.</string>
+    <string name="keyguard_sim_puk_locked_message_dural">SIM-карта%d заблокована PUK-кодом.</string>
 </resources>
