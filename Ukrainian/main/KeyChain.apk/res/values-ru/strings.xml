@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name">Брелок</string>
-    <string name="title_no_certs">Сертификаты не найдены</string>
-    <string name="title_select_cert">Выбор сертификата</string>
-    <string name="requesting_application">Приложение %s запросило сертификат. Выберите сертификат, чтобы разрешить приложению использовать это удостоверение для серверов сейчас и в будущем.</string>
-    <string name="requesting_server">Приложение идентифицировало запрашивающий сервер как %s. Однако если оно является доверенным, вам всего лишь необходимо предоставить ему доступ к сертификату.</string>
-    <string name="install_new_cert_message">Можно установить сертификаты из файла PKCS#12 с расширением %1$s или %2$s, который находится во внешнем хранилище.</string>
-    <string name="install_new_cert_button_label">Установить</string>
-    <string name="allow_button">Разрешить</string>
-    <string name="deny_button">Отклонить</string>
+    <string name="app_name">Ім'я</string>
+    <string name="title_no_certs">Сертифікати не знайдено</string>
+    <string name="title_select_cert">Вибір сертифікату</string>
+    <string name="requesting_application">Додаток %s вимагає сертифікат. Виберіть сертифікат, щоб дозволити додатку використовувати це посвідчення для серверів зараз і в майбутньому.</string>
+    <string name="requesting_server">Додаток ідентифікував  сервер як %s. Однак, якщо він є надійним, вам всього лише необхідно надати йому доступ до сертифікату.</string>
+    <string name="install_new_cert_message">Можна встановити сертифікати із файлу PKCS#12 з розширенням %1$s або %2$s, який знаходиться у внутрішньому сховищі.</string>
+    <string name="install_new_cert_button_label">Встановити</string>
+    <string name="allow_button">Дозволити</string>
+    <string name="deny_button">Відхилити</string>
 </resources>
