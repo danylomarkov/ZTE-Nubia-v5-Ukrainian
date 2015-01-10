@@ -1,23 +1,23 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="progress_scanning">Поиск…</string>
-    <string name="search_networks">Поиск сетей</string>
-    <string name="no_network">Сети не найдены.</string>
-    <string name="select_automatically">Автоматически</string>
-    <string name="sum_select_automatically">Автоматически выбирать предпочтительную сеть</string>
-    <string name="available_networks">Доступные сети</string>
-    <string name="register_on_network">Регистрация в %1$s…</string>
-    <string name="register_automatically">Автоматическая регистрация...</string>
-    <string name="network_query_error">Ошибка поиска сетей.</string>
-    <string name="not_allowed">Ваша SIM-карта не поддерживает подключение к этой сети.</string>
-    <string name="connect_later">Не удалось подключиться к этой сети. Повторите попытку позже.</string>
-    <string name="quit_mention">Внимание!</string>
-    <string name="dialog_message">Выход прекратит поиск. Уверены, что хотите выйти?</string>
-    <string name="timeout_message">Нет доступных сетей.</string>
-    <string name="registration_done">Зарегистрирован в сети.</string>
+    <string name="progress_scanning">Пошук…</string>
+    <string name="search_networks">Пошук мереж</string>
+    <string name="no_network">Мережі не знайдено.</string>
+    <string name="select_automatically">Автоматично</string>
+    <string name="sum_select_automatically">Автоматично вибирати бажану мережу</string>
+    <string name="available_networks">Доступні мережі</string>
+    <string name="register_on_network">Реєстрація в %1$s…</string>
+    <string name="register_automatically">Автоматична реєстрація...</string>
+    <string name="network_query_error">Помилка пошуку мережі.</string>
+    <string name="not_allowed">Ваша SIM-карта не підтримує під'єднання до цієї мережі.</string>
+    <string name="connect_later">Не вдалося під'єднання до цієї мережі. Повторіть спробу пізніше.</string>
+    <string name="quit_mention">Увага!</string>
+    <string name="dialog_message">Вихід припинить пошук. Впевнені, що бажаєте  вийти?</string>
+    <string name="timeout_message">Немає доступних мереж.</string>
+    <string name="registration_done">Зареєстровано  в мережі.</string>
     <string name="China_Mobile">China Mobile</string>
     <string name="China_Unicom">China Unicom</string>
     <string name="China_Telecom">China Telecom</string>
-    <string name="roamingTextSearching">Поиск службы</string>
-    <string name="network_forbidden">(Запрещенный)</string>
+    <string name="roamingTextSearching">Пошук служби</string>
+    <string name="network_forbidden">(Заборонено)</string>
 </resources>
