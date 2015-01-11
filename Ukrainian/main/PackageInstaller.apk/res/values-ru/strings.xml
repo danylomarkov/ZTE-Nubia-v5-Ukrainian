@@ -1,70 +1,70 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name">Программа установки пакета</string>
-    <string name="next">Далее</string>
-    <string name="install">Установить</string>
-    <string name="done">Готово</string>
-    <string name="security_settings_desc">Список разрешений:</string>
-    <string name="cancel">Отмена</string>
-    <string name="unknown">Неизвестно</string>
-    <string name="installing">Установка...</string>
-    <string name="install_done">Приложение установлено.</string>
-    <string name="install_confirm_question">Хотите ли вы установить это приложение? Оно получит следующие разрешения:</string>
-    <string name="install_confirm_question_no_perms">Это приложение не требует специальных разрешений. Установить его?</string>
-    <string name="install_confirm_question_update">Хотите установить обновление для этого приложения? После обновления оно сможет выполнять следующие действия:</string>
-    <string name="install_confirm_question_update_system">Хотите установить обновление для этого приложения? После обновления оно сможет выполнять следующие действия:</string>
-    <string name="install_confirm_question_update_no_perms">Установить обновление этого приложения? На текущих данных это никак не отразится. Специальных прав доступа не требуется.</string>
-    <string name="install_confirm_question_update_system_no_perms">Установить обновление этого встроенного приложения? На текущих данных это никак не отразится. Специальных прав доступа не требуется.</string>
-    <string name="install_failed">Приложение не установлено.</string>
-    <string name="install_failed_invalid_apk">Похоже, пакет поврежден.</string>
-    <string name="install_failed_inconsistent_certificates">Пакет с таким названием уже установлен и имеет конфликтующую подпись.</string>
-    <string name="install_failed_older_sdk">Этот пакет поддерживается только в системе Android более поздних версий.</string>
-    <string name="install_failed_cpu_abi_incompatible">Приложение несовместимо с вашим устройством.</string>
-    <string name="install_failed_file_not_found">Указанный пакет удален до завершения установки.</string>
-    <string name="install_failed_verify_failed">Пакет не проверен и не может быть установлен.</string>
-    <string name="install_failed_verify_timeout">Не удалось проверить пакет. Попробуйте установить его позже.</string>
-    <string name="install_failed_msg">Не удалось установить приложение \"%1$s\".</string>
-    <string name="launch">Открыть</string>
-    <string name="unknown_apps_dlg_title">Установка заблокирована</string>
-    <string name="unknown_apps_dlg_text">В целях безопасности на устройстве заблокирована установка приложений из неизвестных источников.</string>
+    <string name="app_name">Програма встановлення пакету</string>
+    <string name="next">Далі</string>
+    <string name="install">Встановити</string>
+    <string name="done">Виконано</string>
+    <string name="security_settings_desc">Список дозволів:</string>
+    <string name="cancel">Скасувати</string>
+    <string name="unknown">Невідомо</string>
+    <string name="installing">Встановлення...</string>
+    <string name="install_done">Додаток встановлено.</string>
+    <string name="install_confirm_question">Бажаєте встановити цей додаток? Він отримає наступні дозволи:</string>
+    <string name="install_confirm_question_no_perms">Цей додаток не потребує  спеціальних дозволів. Встановити його?</string>
+    <string name="install_confirm_question_update">Бажаєте встановити оновлення для цього додатку? Після оновлення він зможе виконувати наступні дії:</string>
+    <string name="install_confirm_question_update_system">Бажаєте встановити оновлення для цього додатку? Після оновлення він зможе виконувати наступні дії:</string>
+    <string name="install_confirm_question_update_no_perms">Встановити встановити оновлення цього додатку? На поточні дані це не вплине. Спеціальних прав доступу не потрібно.</string>
+    <string name="install_confirm_question_update_system_no_perms">Встановити встановити оновлення цього вмонтованого додатку? На поточні дані це не вплине. Спеціальних прав доступу не потрібно.</string>
+    <string name="install_failed">Додаток не встановлено.</string>
+    <string name="install_failed_invalid_apk">Ймовірно, пакет пошкоджено.</string>
+    <string name="install_failed_inconsistent_certificates">Пакет з такою назвою вже встановлений і має конфліктуючий підпис.</string>
+    <string name="install_failed_older_sdk">Цей пакет підтримується лише в системі Android пізніших версій.</string>
+    <string name="install_failed_cpu_abi_incompatible">Додаток несумісний з вашим пристроєм.</string>
+    <string name="install_failed_file_not_found">Вказаний пакет стерто до завершення встановлення.</string>
+    <string name="install_failed_verify_failed">Пакет не перевірено і не може бути встановлено.</string>
+    <string name="install_failed_verify_timeout">Не вдалося перевірити пакет. Спробуйте встановити його пізніше.</string>
+    <string name="install_failed_msg">Не вдалося встановити додаток\"%1$s\".</string>
+    <string name="launch">Відкрити</string>
+    <string name="unknown_apps_dlg_title">Встановлення заблоковано</string>
+    <string name="unknown_apps_dlg_text">З метою безпеки  на пристрої заблоковано встановлення додатків із невідомих джерел.</string>
     <string name="ok">ОК</string>
-    <string name="settings">Настройки</string>
-    <string name="allow_source_dlg_title">Новый источник для приложений</string>
-    <string name="allow_source_dlg_text">"%1$s хочет установить другие приложения.
+    <string name="settings">Налаштування</string>
+    <string name="allow_source_dlg_title">Нове джерело для додатків</string>
+    <string name="allow_source_dlg_text">"%1$s хоче встановити інші додатки.
 
-Разрешить и запомнить выбор?"</string>
-    <string name="manage_applications">Управление приложениями</string>
-    <string name="dlg_app_replacement_title">Заменить приложение?</string>
-    <string name="dlg_app_replacement_statement">"Данное приложение заменит другую программу.
+Дозволити і запам'ятати  вибір?"</string>
+    <string name="manage_applications">Керування додатками</string>
+    <string name="dlg_app_replacement_title">Замінить додатки?</string>
+    <string name="dlg_app_replacement_statement">"Цей додаток замінить іншу програму.
 
-Все пользовательские данные будут сохранены."</string>
-    <string name="dlg_sys_app_replacement_statement">"Это системное приложение.
+Всі дані користувача буде збережено."</string>
+    <string name="dlg_sys_app_replacement_statement">"Це системний додаток.
 
-Все пользовательские данные будут сохранены."</string>
-    <string name="out_of_space_dlg_title">Недостаточно места</string>
-    <string name="out_of_space_dlg_text">Не удалось установить приложение \"%1$s\". Освободите место и повторите попытку.</string>
+Всі дані користувача буде збережено."</string>
+    <string name="out_of_space_dlg_title">Недостатньо місця</string>
+    <string name="out_of_space_dlg_text">Не вдалося встановити додаток \"%1$s\". Звільніть місце і повторіть спробу.</string>
     <string name="dlg_ok">ОК</string>
-    <string name="app_not_found_dlg_title">Приложение не найдено</string>
-    <string name="app_not_found_dlg_text">Приложения нет в списке установленных.</string>
-    <string name="uninstall_application_title">Удаление приложения</string>
-    <string name="uninstall_update_title">Удаление обновления</string>
-    <string name="uninstall_activity_text">%1$s – часть следующего приложения:</string>
-    <string name="uninstall_application_text">Удалить приложение?</string>
-    <string name="uninstall_application_text_all_users">Удалить это приложение для <b>всех</b> пользователей? После этого <b>ни один</b> пользователь устройства не будет иметь доступа к приложению и связанным с ним данным.</string>
-    <string name="uninstall_update_text">Установить исходную версию приложения?</string>
-    <string name="uninstalling">Удаление...</string>
-    <string name="uninstall_done">Удаление завершено.</string>
-    <string name="uninstall_failed">Ошибка при удалении.</string>
-    <string name="uninstall_failed_device_policy_manager">Невозможно удалить пакет, т. к. он выбран для администрирования устройства.</string>
-    <string name="manage_device_administrators">Настройки администрирования</string>
-    <string name="uninstall_failed_msg">Не удалось удалить приложение \"%1$s\".</string>
-    <string name="Parse_error_dlg_title">Синтаксическая ошибка</string>
-    <string name="Parse_error_dlg_text">Ошибка при синтаксическом анализе пакета.</string>
-    <string name="newPerms">Новые</string>
+    <string name="app_not_found_dlg_title">Додаток не знайдено</string>
+    <string name="app_not_found_dlg_text">Додатку немає в списку встановлених.</string>
+    <string name="uninstall_application_title">Стирання  додатку</string>
+    <string name="uninstall_update_title">Стирання  оновлення</string>
+    <string name="uninstall_activity_text">%1$s – частина наступного додатку:</string>
+    <string name="uninstall_application_text">Стерти додаток?</string>
+    <string name="uninstall_application_text_all_users">Стерти цей додаток для <b>всіх</b> користувачів? Після цього <b> жоден</b> користувач пристрою не буде мати доступу до додатку і зв'язаними з ним даними.</string>
+    <string name="uninstall_update_text">Встановити вихідну версію додатку?</string>
+    <string name="uninstalling">Стирання ...</string>
+    <string name="uninstall_done">Стирання завершено.</string>
+    <string name="uninstall_failed">Помилка під час стирання .</string>
+    <string name="uninstall_failed_device_policy_manager">Неможливо стерти пакет, оскільки він вибраний для адміністрування пристрою.</string>
+    <string name="manage_device_administrators">Налаштування адміністрування</string>
+    <string name="uninstall_failed_msg">Не вдалося стерти додаток\"%1$s\".</string>
+    <string name="Parse_error_dlg_title">Синтаксична помилка</string>
+    <string name="Parse_error_dlg_text">Помилка під час синтаксичного  аналізу пакета.</string>
+    <string name="newPerms">Нові</string>
     <string name="allPerms">Все</string>
-    <string name="privacyPerms">Личные данные</string>
-    <string name="devicePerms">Доступ к устройству</string>
-    <string name="no_new_perms">Установка этого обновления не требует новых разрешений.</string>
-    <string name="grant_confirm_question">Предоставить следующие разрешения? Вот к чему будет получен доступ:</string>
-    <string name="install_failed_no_certificaties">Приложение не сертифицировано.</string>
+    <string name="privacyPerms">Особисті дані</string>
+    <string name="devicePerms">Доступ до пристрою</string>
+    <string name="no_new_perms">Встановлення цього оновлення не потребує нових дозволів.</string>
+    <string name="grant_confirm_question">Надати наступні дозволи? Доступ буде отримано до:</string>
+    <string name="install_failed_no_certificaties">Додаток не сертифіковано.</string>
 </resources>
