@@ -299,43 +299,43 @@
     <string name="crypt_keeper_encrypt_title">Зашифрувати дані</string>
     <string name="crypt_keeper_encrypt_summary">Запит числового PIN-коду чи паролю для дешифрування при кожному увімкненні телефону</string>
     <string name="crypt_keeper_encrypted_summary">Зашифровано</string>
-    <string name="crypt_keeper_desc">"Можно зашифровать данные различных типов: аккаунты, настройки, загруженные приложения и их контент, мультимедийные и другие файлы. После этого при каждом включении устройства потребуется вводить PIN-код или пароль. Шифрование снимается только путем сброса настроек, в результате которого удаляются все данные.
+    <string name="crypt_keeper_desc">"Можна зашифровувати дані різних типів: аккаунти, налаштування, завантажені  додатки і їх контент, мультимедійні та інші файли. Після цього під час кожного увімкнення пристрою слід буде вводити PIN-код чи пароль. Шифрування знімається лише шляхом скидання налаштувань, в результаті якого стираються всі дані.
 
-Шифрование занимает не менее часа. Батарея должна быть полностью заряжена, а устройство подключено к источнику питания, пока шифрование не завершится. Если прервать его, данные на устройстве будут частично или полностью потеряны."</string>
-    <string name="crypt_keeper_button_text">Зашифровать данные</string>
-    <string name="crypt_keeper_low_charge_text">Зарядите батарею и повторите попытку.</string>
-    <string name="crypt_keeper_unplugged_text">Подключите зарядное устройство и повторите попытку.</string>
-    <string name="crypt_keeper_dialog_need_password_title">Не указан PIN-код или пароль блокировки экрана</string>
-    <string name="crypt_keeper_dialog_need_password_message">Перед шифрованием необходимо задать PIN-код или пароль блокировки экрана.</string>
-    <string name="crypt_keeper_confirm_title">Выполнить шифрование?</string>
-    <string name="crypt_keeper_final_desc">Если прервать шифрование, данные будут потеряны. Операция займет не менее часа, в течение которого устройство будет перезагружено несколько раз.</string>
-    <string name="crypt_keeper_setup_title">Шифрование</string>
-    <string name="crypt_keeper_setup_description">Дождитесь завершения шифрования телефона. Выполнено: ^1%.</string>
-    <string name="crypt_keeper_cooldown">Повторите попытку через ^1 с.</string>
-    <string name="crypt_keeper_enter_password">Введите пароль</string>
-    <string name="crypt_keeper_failed_title">Сбой шифрования</string>
-    <string name="crypt_keeper_failed_summary">"Данные на вашем телефоне больше недоступны из-за того, что шифрование было прервано. 
+Шифрування займає не менше години. Батарея повинна бути повністю заряджена, а пристрій під'єднано до джерела живлення, поки шифрування не завершиться. Якщо перервати його, дані на пристрої будуть частково або повністю втрачені."</string>
+    <string name="crypt_keeper_button_text">Зашифрувати дані</string>
+    <string name="crypt_keeper_low_charge_text">Зарядіть батарею  повторіть спробу.</string>
+    <string name="crypt_keeper_unplugged_text">Під'єднайте зарядний пристрій і повторіть спробу.</string>
+    <string name="crypt_keeper_dialog_need_password_title">Не вказано PIN-код або пароль блокування екрану</string>
+    <string name="crypt_keeper_dialog_need_password_message">Перед шифруванням необхідно задати PIN-код чи пароль блокування екрану.</string>
+    <string name="crypt_keeper_confirm_title">Виконати шифрування?</string>
+    <string name="crypt_keeper_final_desc">Якщо припинити шифрування, дані будуть втрачені. Операція займе не менше години, протягом якого пристрій буде перезавантажено декілька разів.</string>
+    <string name="crypt_keeper_setup_title">Шифрування</string>
+    <string name="crypt_keeper_setup_description">Дочекайтеся завершення шифрування телефону. Виконано: ^1%.</string>
+    <string name="crypt_keeper_cooldown">Повторіть спробу через ^1 с.</string>
+    <string name="crypt_keeper_enter_password">Введіть пароль</string>
+    <string name="crypt_keeper_failed_title">Збій шифрування</string>
+    <string name="crypt_keeper_failed_summary">"Дані на вашому телефоні більше недоступні через те, що шифрування було перервано. 
 
-Чтобы дальше использовать устройство, нужно сбросить настройки. После этого вы сможете восстановить все данные, для которых в аккаунте Google были созданы резервные копии."</string>
-    <string name="crypt_keeper_switch_input_method">Сменить способ ввода</string>
-    <string name="lock_settings_picker_title">Блокировка экрана</string>
-    <string name="backup_lock_settings_picker_title">Доп. способ блокировки</string>
-    <string name="unlock_set_unlock_launch_picker_title">Блокировка экрана</string>
-    <string name="unlock_set_unlock_launch_picker_change_title">Изменение блок. экрана</string>
-    <string name="unlock_set_unlock_launch_picker_change_summary">Смена или отключение графического ключа, PIN-кода и пароля</string>
-    <string name="unlock_set_unlock_launch_picker_enable_summary">Выбрать метод блокировки экрана</string>
-    <string name="unlock_backup_info_summary">Выберите альтернативный способ разблокировки экрана.</string>
-    <string name="unlock_set_unlock_off_title">Нет</string>
+Щоб надалі використовувати пристрій, потрібно скинути налаштування. Після цього ви зможете відновити всі дані, для яких в аккаунті Google були створені резервні копії."</string>
+    <string name="crypt_keeper_switch_input_method">Змінить спосіб вводу</string>
+    <string name="lock_settings_picker_title">Блокування екрану</string>
+    <string name="backup_lock_settings_picker_title">Дод. спосіб блокування</string>
+    <string name="unlock_set_unlock_launch_picker_title">Блокування екрану</string>
+    <string name="unlock_set_unlock_launch_picker_change_title">Зміна блок. екрану</string>
+    <string name="unlock_set_unlock_launch_picker_change_summary">Зміна чи відключення графічного ключа, PIN-коду і паролю</string>
+    <string name="unlock_set_unlock_launch_picker_enable_summary">Вибрати метод блокування екрану</string>
+    <string name="unlock_backup_info_summary">Виберіть альтернативний спосіб розблокування екрану.</string>
+    <string name="unlock_set_unlock_off_title">Немає</string>
     <string name="unlock_set_unlock_none_title">Слайдер</string>
-    <string name="unlock_set_unlock_none_summary">Защита отключена</string>
+    <string name="unlock_set_unlock_none_summary">Захист вимкнено</string>
     <string name="unlock_set_unlock_biometric_weak_title">Фейсконтроль</string>
-    <string name="unlock_set_unlock_biometric_weak_summary">Низкий уровень защиты (экспериментальная функция)</string>
-    <string name="unlock_set_unlock_pattern_title">Графический ключ</string>
-    <string name="unlock_set_unlock_pattern_summary">Средний уровень защиты</string>
+    <string name="unlock_set_unlock_biometric_weak_summary">Низький рівень захисту (експериментальна функція)</string>
+    <string name="unlock_set_unlock_pattern_title">Графічний ключ</string>
+    <string name="unlock_set_unlock_pattern_summary">Середній рівень захисту </string>
     <string name="unlock_set_unlock_pin_title">PIN-код</string>
-    <string name="unlock_set_unlock_pin_summary">Уровень безопасности от среднего до высокого</string>
+    <string name="unlock_set_unlock_pin_summary">Рівень безпеки від середнього до високого</string>
     <string name="unlock_set_unlock_password_title">Пароль</string>
-    <string name="unlock_set_unlock_password_summary">Высокий уровень защиты</string>
+    <string name="unlock_set_unlock_password_summary">Високий рівень захисту</string>
     <string name="unlock_set_unlock_disabled_summary">Запрещено администратором, политикой шифрования или хранилищем учетных данных</string>
     <string name="unlock_set_unlock_mode_off">Нет</string>
     <string name="unlock_set_unlock_mode_none">Для разблокировки экрана сдвиньте слайдер</string>
