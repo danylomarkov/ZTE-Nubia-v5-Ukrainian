@@ -1791,224 +1791,224 @@
     <string name="track_frame_time">Запис часу роботи GPU</string>
     <string name="window_animation_scale_title">Вікно: масштаб</string>
     <string name="transition_animation_scale_title">Перехід: масштаб</string>
-    <string name="animator_duration_scale_title">Скорость анимации</string>
-    <string name="overlay_display_devices_title">Эмуляция доп. экранов</string>
-    <string name="debug_applications_category">Приложения</string>
-    <string name="immediately_destroy_activities">Не сохранять действия</string>
-    <string name="immediately_destroy_activities_summary">Удалять сводку действий после их завершения</string>
-    <string name="app_process_limit_title">Лимит фоновых процессов</string>
+    <string name="animator_duration_scale_title">Швидкість анімації</string>
+    <string name="overlay_display_devices_title">Емуляція дод. екранів</string>
+    <string name="debug_applications_category">Додаток</string>
+    <string name="immediately_destroy_activities">Не зберігати дії</string>
+    <string name="immediately_destroy_activities_summary">Стирати зведення дій після їх завершення</string>
+    <string name="app_process_limit_title">Ліміт фонових процесів</string>
     <string name="show_all_anrs">Все ANR</string>
-    <string name="show_all_anrs_summary">Уведомлять о том, что приложение не отвечает</string>
-    <string name="data_usage_summary_title">Передача данных</string>
-    <string name="data_usage_cycle">Период статистики</string>
-    <string name="data_usage_menu_roaming">Интернет-роуминг</string>
-    <string name="data_usage_menu_restrict_background">Ограничить фон. режим</string>
-    <string name="data_usage_menu_split_4g">Только по каналу 4G</string>
-    <string name="data_usage_menu_show_wifi">Показывать трафик Wi-Fi</string>
-    <string name="data_usage_menu_show_ethernet">Показывать загрузку Ethernet</string>
-    <string name="data_usage_menu_metered">Точки доступа к моб. сети</string>
-    <string name="data_usage_menu_auto_sync">Автосинхронизация данных</string>
-    <string name="data_usage_change_cycle">Изменить…</string>
-    <string name="data_usage_pick_cycle_day">День месяца, когда сбрасывается цикл использования данных:</string>
-    <string name="data_usage_empty">В этот период не было трафика от приложений.</string>
-    <string name="data_usage_label_foreground">Активный режим</string>
-    <string name="data_usage_label_background">Фоновый режим</string>
-    <string name="data_usage_app_restricted">доступ ограничен</string>
-    <string name="data_usage_disable_mobile">Отключить мобильную передачу данных?</string>
-    <string name="data_usage_disable_mobile_limit">Установить лимит</string>
-    <string name="data_usage_disable_4g_limit">Лимитировать трафик 4G</string>
-    <string name="data_usage_disable_3g_limit">Лимитировать трафик 2G и 3G</string>
-    <string name="data_usage_disable_wifi_limit">Установить лимит трафика Wi-Fi</string>
+    <string name="show_all_anrs_summary">Повідомляти про те, що програма не відповідає</string>
+    <string name="data_usage_summary_title">Передавання даних</string>
+    <string name="data_usage_cycle">Період статистики</string>
+    <string name="data_usage_menu_roaming">Інтернет-роумінг</string>
+    <string name="data_usage_menu_restrict_background">Обмежити фон. режим</string>
+    <string name="data_usage_menu_split_4g">Лише по каналу 4G</string>
+    <string name="data_usage_menu_show_wifi">Показувати трафік Wi-Fi</string>
+    <string name="data_usage_menu_show_ethernet">Показувати завантаження Ethernet</string>
+    <string name="data_usage_menu_metered">Точки доступу до моб. мережі</string>
+    <string name="data_usage_menu_auto_sync">Автосинхронізація даних</string>
+    <string name="data_usage_change_cycle">Змінити…</string>
+    <string name="data_usage_pick_cycle_day">День місяця, коли скидається цикл використання даних:</string>
+    <string name="data_usage_empty">У цей період не було трафіку від додатків.</string>
+    <string name="data_usage_label_foreground">Активний режим</string>
+    <string name="data_usage_label_background">Фоновий режим</string>
+    <string name="data_usage_app_restricted">Доступ обмежено</string>
+    <string name="data_usage_disable_mobile">Відключити мобільну передачу даних?</string>
+    <string name="data_usage_disable_mobile_limit">Встановити ліміт</string>
+    <string name="data_usage_disable_4g_limit">Лімітувати трафік 4G</string>
+    <string name="data_usage_disable_3g_limit">Лімітувати трафік 2G і 3G</string>
+    <string name="data_usage_disable_wifi_limit">Установить ліміт трафіку Wi-Fi</string>
     <string name="data_usage_tab_wifi">Wi-Fi</string>
     <string name="data_usage_tab_ethernet">Ethernet</string>
-    <string name="data_usage_tab_mobile">Моб. сети</string>
+    <string name="data_usage_tab_mobile">Моб. мережі</string>
     <string name="data_usage_tab_slot">SIM</string>
-    <string name="data_usage_tab_4g">Трафик 4G</string>
+    <string name="data_usage_tab_4g">Трафік 4G</string>
     <string name="data_usage_tab_3g">2G/3G</string>
-    <string name="data_usage_list_mobile">Моб. сети</string>
-    <string name="data_usage_list_none">Нет сетей</string>
-    <string name="data_usage_enable_mobile">Моб. трафик</string>
-    <string name="data_usage_enable_3g">Передача данных по сетям 2G/3G</string>
-    <string name="data_usage_enable_4g">Передача данных 4G</string>
-    <string name="data_usage_app_settings">Настройки приложения</string>
-    <string name="data_usage_app_restrict_background">Лимит фон. данных</string>
-    <string name="data_usage_app_restrict_background_summary">Откл. фоновый режим для моб. сетей (использовать другие сети)</string>
-    <string name="data_usage_app_restrict_background_summary_disabled">Сначала установите лимит для мобильного трафика.</string>
-    <string name="data_usage_app_restrict_dialog_title">Ограничение фонового режима</string>
-    <string name="data_usage_app_restrict_dialog">"Если будут доступны только мобильные сети, программы, зависящие от фонового режима, могут перестать работать.
+    <string name="data_usage_list_mobile">Моб. мережі</string>
+    <string name="data_usage_list_none">Немає мереж</string>
+    <string name="data_usage_enable_mobile">Моб. трафік</string>
+    <string name="data_usage_enable_3g">Передавання даних  мережами 2G/3G</string>
+    <string name="data_usage_enable_4g">Передавання даних 4G</string>
+    <string name="data_usage_app_settings">Налаштування програми</string>
+    <string name="data_usage_app_restrict_background">Ліміт фон. даних</string>
+    <string name="data_usage_app_restrict_background_summary">Вимкнути фоновий режим для моб. мереж (використовувати інші мережі)</string>
+    <string name="data_usage_app_restrict_background_summary_disabled">Спочатку встановіть ліміт для мобільного трафіку.</string>
+    <string name="data_usage_app_restrict_dialog_title">Обмеження фонового режиму</string>
+    <string name="data_usage_app_restrict_dialog">"Якщо будуть доступні тільки мобільні мережі, програми, залежні від фонового режиму, можуть перестати працювати.
 
-Установите другие параметры передачи данных в настройках приложения."</string>
-    <string name="data_usage_restrict_denied_dialog">Ограничение фонового режима возможно только при лимитировании мобильного трафика.</string>
-    <string name="data_usage_auto_sync_on_dialog_title">Включить автосинхронизацию?</string>
-    <string name="data_usage_auto_sync_on_dialog">"Все изменения, внесенные в аккаунты на компьютере, будут автоматически скопированы на устройство.
+Встановіть інші параметри передачі даних в налаштуваннях програми."</string>
+    <string name="data_usage_restrict_denied_dialog">Обмеження фонового режиму можливо тільки у випадку лімітування мобільного трафіку.</string>
+    <string name="data_usage_auto_sync_on_dialog_title">Увімкнути автосинхронізацію?</string>
+    <string name="data_usage_auto_sync_on_dialog">"Всі зміни, внесені до акаунти на комп'ютері, будуть автоматично скопійовані на пристрій.
 
-В некоторых случаях также выполняется обратная синхронизация.
+У деяких випадках також виконується зворотна синхронізація.
 
-Чтобы указать для каждого аккаунта, какие данные нужно синхронизировать, перейдите в меню \"Настройки > Аккаунты\"."</string>
-    <string name="data_usage_auto_sync_off_dialog_title">Отключить автосинхронизацию?</string>
-    <string name="data_usage_auto_sync_off_dialog">Это сократит трафик и расход энергии. Однако чтобы получать новые данные, необходимо будет синхронизировать каждый аккаунт вручную. При этом уведомления об обновлениях отображаться не будут.</string>
-    <string name="data_usage_cycle_editor_title">Удаление статистики</string>
-    <string name="data_usage_cycle_editor_subtitle">День месяца:</string>
-    <string name="data_usage_cycle_editor_positive">Сохранить</string>
-    <string name="data_usage_warning_editor_title">Настройка предупреждения</string>
-    <string name="data_usage_limit_editor_title">Лимит трафика</string>
-    <string name="data_usage_limit_dialog_title">Объем трафика ограничен</string>
-    <string name="data_usage_limit_dialog_mobile">"По достижении лимита трафика передача данных по мобильной сети будет отключена.
+Щоб вказати для кожного аккаунта, які дані потрібно синхронізувати, перейдіть в меню \ "Установки> Аккаунти\"."</string>
+    <string name="data_usage_auto_sync_off_dialog_title">Вимкнути автосинхронізацію?</string>
+    <string name="data_usage_auto_sync_off_dialog">Це скоротить трафік і витрати енергії. Однак, щоб отримувати нові дані, необхідно буде синхронізувати кожен аккаунт вручну. При цьому повідомлення про оновлення відображатися не будуть.</string>
+    <string name="data_usage_cycle_editor_title">Стирання статистики</string>
+    <string name="data_usage_cycle_editor_subtitle">День місяця:</string>
+    <string name="data_usage_cycle_editor_positive">Зберегти</string>
+    <string name="data_usage_warning_editor_title">Налаштування попередження</string>
+    <string name="data_usage_limit_editor_title">Ліміт трафіку</string>
+    <string name="data_usage_limit_dialog_title">Обсяг трафіку обмежений</string>
+    <string name="data_usage_limit_dialog_mobile">"о досягненні ліміту трафіка передача даних по мобільній мережі буде відключена.
 
-Во избежание дополнительных расходов старайтесь не достигать этого лимита, так как оператор и ваше устройство могут по-разному учитывать трафик."</string>
-    <string name="data_usage_restrict_background_title">Ограничение фонового режима</string>
-    <string name="data_usage_restrict_background">Если ограничить передачу данных в фоновом режиме, некоторые приложения и службы не будут работать без подключения к сети Wi-Fi.</string>
-    <string name="data_usage_restrict_background_multiuser">"Если ограничить передачу данных в фоновом режиме, некоторые приложения и службы не будут работать без подключения к сети Wi-Fi.
+Щоб уникнути додаткових витрат намагайтеся не досягати цього ліміту, так як оператор і ваш пристрій можуть по-різному враховувати трафік."</string>
+    <string name="data_usage_restrict_background_title">Обмеження фонового режиму</string>
+    <string name="data_usage_restrict_background">Якщо обмежити передачу даних у фоновому режимі, деякі програми і служби не будуть працювати без підключення до мережі Wi-Fi.</string>
+    <string name="data_usage_restrict_background_multiuser">"Якщо обмежити передачу даних у фоновому режимі, деякі програми і служби не будуть працювати без підключення до мережі Wi-Fi.
 
-Настройки будут изменены для всех пользователей устройства."</string>
-    <string name="data_usage_sweep_warning"><font size="12">Предупреждение</font>"
+Налаштування будуть змінені для всіх користувачів пристрою."</string>
+    <string name="data_usage_sweep_warning"><font size="12">Попередження</font>"
 "<font size="21">^1</font> <font size="9">^2</font></string>
-    <string name="data_usage_sweep_limit"><font size="12">Лимит</font>"
+    <string name="data_usage_sweep_limit"><font size="12">Ліміт</font>"
 "<font size="21">^1</font> <font size="9">^2</font></string>
-    <string name="data_usage_uninstalled_apps">Удаленные приложения</string>
-    <string name="data_usage_uninstalled_apps_users">Удаленные приложения и пользователи</string>
-    <string name="data_usage_received_sent">Получено: %1$s; отправлено: %2$s</string>
+    <string name="data_usage_uninstalled_apps">Стерті програми</string>
+    <string name="data_usage_uninstalled_apps_users">Стерті програми і користувачі</string>
+    <string name="data_usage_received_sent">Отримано: %1$s; надіслано: %2$s</string>
     <string name="data_usage_total_during_range">%2$s: ≈%1$s</string>
-    <string name="data_usage_total_during_range_mobile">%2$s: %1$s (трафик, определенный устройством). Данные оператора могут отличаться.</string>
-    <string name="data_usage_metered_title">Точки доступа к моб. сети</string>
-    <string name="data_usage_metered_body">Выберите сети Wi-Fi с тарификацией трафика. Возможно, приложения не смогут использовать их для работы в фоновом режиме. Кроме того, перед загрузкой больших объемов данных может появляться предупреждение.</string>
-    <string name="data_usage_metered_mobile">Мобильные сети</string>
-    <string name="data_usage_metered_wifi">Сети Wi-Fi</string>
-    <string name="data_usage_metered_wifi_disabled">Чтобы выбрать точку доступа, включите Wi-Fi.</string>
-    <string name="cryptkeeper_emergency_call">Вызов службы экстренной помощи</string>
-    <string name="cryptkeeper_return_to_call">Вернуться к вызову</string>
-    <string name="vpn_name">Название сети</string>
+    <string name="data_usage_total_during_range_mobile">%2$s: %1$s (трафік, визначений пристроєм). Дані оператора можуть відрізнятися.</string>
+    <string name="data_usage_metered_title">Точки доступу до моб. мережі</string>
+    <string name="data_usage_metered_body">Виберіть мережі Wi-Fi з тарифікацією трафіку. Можливо, додатки не зможуть використовувати їх для роботи у фоновому режимі. Крім того, перед завантаженням великих обсягів даних може з'являтися попередження.</string>
+    <string name="data_usage_metered_mobile">Мобільні мережі</string>
+    <string name="data_usage_metered_wifi">Мережі Wi-Fi</string>
+    <string name="data_usage_metered_wifi_disabled">Щоб вибрати точку доступу, увімкніть Wi-Fi.</string>
+    <string name="cryptkeeper_emergency_call">Екстрені дзвінки</string>
+    <string name="cryptkeeper_return_to_call">Повернутися до виклику</string>
+    <string name="vpn_name">Назва мережі</string>
     <string name="vpn_type">Тип</string>
-    <string name="vpn_server">Адрес сервера</string>
-    <string name="vpn_mppe">Шифрование PPP (MPPE)</string>
+    <string name="vpn_server">Адреса серверу</string>
+    <string name="vpn_mppe">Шифрування PPP (MPPE)</string>
     <string name="vpn_l2tp_secret">Ключ L2TP</string>
-    <string name="vpn_ipsec_identifier">Идентификатор IPSec</string>
-    <string name="vpn_ipsec_secret">Общий ключ IPSec</string>
-    <string name="vpn_ipsec_user_cert">Сертификат пользователя IPSec</string>
-    <string name="vpn_ipsec_ca_cert">Сертификат ЦС IPSec</string>
-    <string name="vpn_ipsec_server_cert">Сертификат сервера IPSec</string>
-    <string name="vpn_show_options">Дополнительно</string>
-    <string name="vpn_search_domains">Домены для поиска DNS</string>
-    <string name="vpn_dns_servers">DNS-серверы (например, 8.8.8.8)</string>
-    <string name="vpn_routes">Маршруты пересылки (например, 10.0.0.0/8)</string>
-    <string name="vpn_username">Имя пользователя</string>
+    <string name="vpn_ipsec_identifier">Ідентифікатор IPSec</string>
+    <string name="vpn_ipsec_secret">Загальний ключ IPSec</string>
+    <string name="vpn_ipsec_user_cert">Сертифікат користувача IPSec</string>
+    <string name="vpn_ipsec_ca_cert">Сертифікат ЦС IPSec</string>
+    <string name="vpn_ipsec_server_cert">Сертифікат серверу IPSec</string>
+    <string name="vpn_show_options">Додатково </string>
+    <string name="vpn_search_domains">Домени для пошуку DNS</string>
+    <string name="vpn_dns_servers">DNS-сервери (наприклад, 8.8.8.8)</string>
+    <string name="vpn_routes">Маршрути пересилання (наприклад, 10.0.0.0/8)</string>
+    <string name="vpn_username">Ім'я користувача</string>
     <string name="vpn_password">Пароль</string>
-    <string name="vpn_save_login">Сохранить учетные данные</string>
-    <string name="vpn_not_used">(не используется)</string>
-    <string name="vpn_no_ca_cert">(не проверять сервер)</string>
-    <string name="vpn_no_server_cert">(получено с сервера)</string>
-    <string name="vpn_cancel">Отмена</string>
-    <string name="vpn_save">Сохранить</string>
-    <string name="vpn_connect">Подключиться</string>
-    <string name="vpn_edit">Изменение профиля VPN</string>
-    <string name="vpn_connect_to">Подключение к профилю \"%s\"</string>
-    <string name="vpn_title">Настройки VPN</string>
-    <string name="vpn_create">Добавить профиль VPN</string>
-    <string name="vpn_menu_edit">Изменить профиль</string>
-    <string name="vpn_menu_delete">Удалить профиль</string>
-    <string name="vpn_menu_lockdown">Постоянная VPN</string>
-    <string name="vpn_lockdown_summary">Выберите постоянную сеть VPN: трафик будет разрешен только при подключении к этой сети.</string>
-    <string name="vpn_lockdown_none">Сеть не выбрана</string>
-    <string name="vpn_lockdown_config_error">Укажите IP-адрес для сервера и DNS.</string>
-    <string name="vpn_no_network">Отсутствует сетевое соединение. Повторите попытку позже.</string>
-    <string name="vpn_missing_cert">Отсутствует сертификат. Измените профиль.</string>
+    <string name="vpn_save_login">Зберегти облікові дані</string>
+    <string name="vpn_not_used">(не використовується)</string>
+    <string name="vpn_no_ca_cert">(не перевіряти сервер)</string>
+    <string name="vpn_no_server_cert">(отримано із сервера)</string>
+    <string name="vpn_cancel">Скасувати</string>
+    <string name="vpn_save">Зберегти</string>
+    <string name="vpn_connect">Підключитися</string>
+    <string name="vpn_edit">Зміна профілю VPN</string>
+    <string name="vpn_connect_to">Підключення до профілю \"%s\"</string>
+    <string name="vpn_title">Налаштування VPN</string>
+    <string name="vpn_create">Додати профіль VPN</string>
+    <string name="vpn_menu_edit">Змінити профіль </string>
+    <string name="vpn_menu_delete">Стерти профіль </string>
+    <string name="vpn_menu_lockdown">Постійний VPN</string>
+    <string name="vpn_lockdown_summary">Виберіть постійну мережу VPN: трафік буде дозволений тільки при підключенні до цієї мережі.</string>
+    <string name="vpn_lockdown_none">Мережа не вибрана</string>
+    <string name="vpn_lockdown_config_error">Вкажіть IP-адресу для серверу і DNS.</string>
+    <string name="vpn_no_network">Відсутнє мережеве з'єднання. Повторіть спробу пізніше.</string>
+    <string name="vpn_missing_cert">Відсутній сертифікат. Змініть профіль.</string>
     <string name="trusted_credentials_system_tab">Система</string>
-    <string name="trusted_credentials_user_tab">Пользователь</string>
-    <string name="trusted_credentials_disable_label">Отключить</string>
-    <string name="trusted_credentials_enable_label">Включить</string>
-    <string name="trusted_credentials_remove_label">Удалить</string>
-    <string name="trusted_credentials_enable_confirmation">Включить сертификат ЦС системы?</string>
-    <string name="trusted_credentials_disable_confirmation">Отключить сертификат ЦС системы?</string>
-    <string name="trusted_credentials_remove_confirmation">Полностью удалить сертификат ЦС пользователя?</string>
-    <string name="spellcheckers_settings_title">Проверка правописания</string>
-    <string name="current_backup_pw_prompt">Введите текущий пароль</string>
-    <string name="new_backup_pw_prompt">Введите новый пароль</string>
-    <string name="confirm_new_backup_pw_prompt">Подтвердите пароль</string>
-    <string name="backup_pw_set_button_text">Сохранить пароль</string>
-    <string name="backup_pw_cancel_button_text">Отмена</string>
+    <string name="trusted_credentials_user_tab">Користувач</string>
+    <string name="trusted_credentials_disable_label">Вимкнути</string>
+    <string name="trusted_credentials_enable_label">Увімкнути</string>
+    <string name="trusted_credentials_remove_label">Стерти</string>
+    <string name="trusted_credentials_enable_confirmation">Увімкнути сертифікат ЦС системи?</string>
+    <string name="trusted_credentials_disable_confirmation">Вимкнути сертифікат ЦС системи?</string>
+    <string name="trusted_credentials_remove_confirmation">Повністю видалити сертифікат ЦС користувача?</string>
+    <string name="spellcheckers_settings_title">Перевірка правопису</string>
+    <string name="current_backup_pw_prompt">Введіть поточний  пароль</string>
+    <string name="new_backup_pw_prompt">Введіть новий пароль</string>
+    <string name="confirm_new_backup_pw_prompt">Підтвердіть пароль</string>
+    <string name="backup_pw_set_button_text">Зберегти пароль</string>
+    <string name="backup_pw_cancel_button_text">Скасувати</string>
     <string name="percentage">%d%%</string>
-    <string name="sel_sub_title">Настройка подписки</string>
-    <string name="sel_sub_summary">Выбрать подписку Подп.1, Подп.2 и т.д.</string>
-    <string name="select_subscription">Выбрать подписку</string>
+    <string name="sel_sub_title">Налаштування підписки</string>
+    <string name="sel_sub_summary">Вибрати підписку Підп.1, Підп.2 і т.д.</string>
+    <string name="select_subscription">Вибрати підписку</string>
     <string name="subs_settings">SUBS статус</string>
-    <string name="multi_sim_settings_title">Управление SIM картами</string>
-    <string name="multi_sim_settings_summary">Настройка и выбор SIM-карт для голоса, данных и SMS</string>
+    <string name="multi_sim_settings_title">Керування SIM картами</string>
+    <string name="multi_sim_settings_summary">Налаштування і вибір SIM-карт для голосу, даних і SMS</string>
     <string name="voice_title">Голос/USSD/MMI</string>
-    <string name="voice_summary">Выбрать подписку для голосового вызова</string>
-    <string name="data_title">Вызов данных</string>
-    <string name="data_summary">Выбрать подписку для вызова данных</string>
+    <string name="voice_summary">Вибрати підписку для голосового виклику</string>
+    <string name="data_title">Виклик даних</string>
+    <string name="data_summary">Вибрати підписку для виклику даних</string>
     <string name="sms_title">SMS</string>
-    <string name="sms_summary">Выбрать подписку для отправки SMS</string>
-    <string name="set_data_subscription_progress">Установить прогресс подписки данных</string>
-    <string name="set_dds_success">Успешно удалось установить подписку данных</string>
-    <string name="set_dds_failed">Ошибка установки подписки данных. Очистка любой существующее соединение передачи данных и повторите попытку.</string>
-    <string name="set_dds_error">Ошибка установки подписки данных.</string>
-    <string name="set_sms_error">Ошибка установки подписки SMS. Подписка неактивна</string>
-    <string name="set_voice_error">Ошибка установки голосовой подписки. Подписка неактивна</string>
-    <string name="set_priority_sub_error">Ошибка установки приоритетной подписки. Подписка неактивна</string>
-    <string name="prompt">Подсказка</string>
-    <string name="prompt_user">Подсказка Пользователя</string>
-    <string name="additional_system_update_settings_list_item_title">Дополнительные обновления системы</string>
-    <string name="selinux_status_disabled">Отключено</string>
-    <string name="selinux_status_permissive">Только предупреждение</string>
-    <string name="selinux_status_enforcing">Блокировка</string>
-    <string name="ssl_ca_cert_warning">Действия в сети могут отслеживаться</string>
-    <string name="done_button">Готово</string>
-    <string name="ssl_ca_cert_dialog_title">Мониторинг сети</string>
-    <string name="ssl_ca_cert_info_message">"Устройство зарегистрировано в домене 
+    <string name="sms_summary">Вибрати підписку для відправки SMS</string>
+    <string name="set_data_subscription_progress">Встановити прогрес підписки даних</string>
+    <string name="set_dds_success">Успішно вдалося встановити підписку даних </string>
+    <string name="set_dds_failed">Помилка установки підписки даних. Очистіть  будь-яке існуюче з'єднання передачі даних і повторіть спробу.</string>
+    <string name="set_dds_error">Помилка установки підписки даних.</string>
+    <string name="set_sms_error">Помилка установки підписки SMS. Підписка неактивна</string>
+    <string name="set_voice_error">Помилка установки голосової підписки. Підписка неактивна</string>
+    <string name="set_priority_sub_error"> Помилка установки пріоритетною підписки. Підписка неактивна</string>
+    <string name="prompt">Підказка</string>
+    <string name="prompt_user">Підказка користувача</string>
+    <string name="additional_system_update_settings_list_item_title">Додаткові оновлення системи</string>
+    <string name="selinux_status_disabled">Вимкнено</string>
+    <string name="selinux_status_permissive">Тільки попередження</string>
+    <string name="selinux_status_enforcing">Блокування</string>
+    <string name="ssl_ca_cert_warning">Дії в мережі можуть відслідковуватися</string>
+    <string name="done_button">Виконано</string>
+    <string name="ssl_ca_cert_dialog_title">Моніторинг мережі</string>
+    <string name="ssl_ca_cert_info_message">"Пристрій зареєстровано в домені
 %s.
 
-Администратор может отслеживать ваши действия в интернет-сервисах, включая электронную почту, приложения и защищенные веб-сайты.
+Адміністратор може відстежувати ваші дії в інтернет-сервісах, зокрема електронну пошту, додатки і захищені веб-сайти.
 
-За дополнительной информацией обращайтесь к администратору."</string>
-    <string name="ssl_ca_cert_warning_message">"Третья сторона может отслеживать ваши действия в сети. (например, просматривать ваши письма, приложения и список посещенных сайтов).
+За додатковою інформацією звертайтеся до адміністратора."</string>
+    <string name="ssl_ca_cert_warning_message">"Третя сторона може відстежувати ваші дії в мережі. (наприклад, проглядати ваші листи, додатки і список відвіданих сайтів).
 
-Это возможно благодаря надежному сертификату, установленному на устройстве."</string>
-    <string name="ssl_ca_cert_settings_button">Настройки сертификатов</string>
-    <string name="tune_away_title">Удаленная настройка</string>
-    <string name="tune_away_Default">Отключено</string>
-    <string name="tune_away_enabled">Удаленная настройка включена!</string>
-    <string name="tune_away_disabled">Удаленная настройка выключена!</string>
-    <string name="priority_sub_title">Приоритетная подписка</string>
-    <string name="priority_sub_summary">Выберите приоритетную подписку</string>
-    <string name="user_settings_title">Пользователи</string>
-    <string name="user_list_title">Пользователи и профили</string>
-    <string name="user_add_user_menu">Добавить пользователя/профиль</string>
-    <string name="user_summary_restricted_profile">Профиль с ограниченным доступом</string>
-    <string name="user_need_lock_message">Чтобы создать профиль с ограниченным доступом, необходимо предварительно настроить блокировку экрана для защиты приложений и личных данных</string>
-    <string name="user_set_lock_button">Включить блокировку</string>
-    <string name="user_summary_not_set_up">Не настроено</string>
-    <string name="user_summary_restricted_not_set_up">Не настроено – профиль с ограниченным доступом</string>
-    <string name="user_owner">Владелец</string>
-    <string name="user_you">Вы (%s)</string>
-    <string name="user_nickname">Псевдоним</string>
-    <string name="user_add_user_type_title">Добавление</string>
-    <string name="user_add_user_item_summary">У пользователей есть свои приложения и контент</string>
-    <string name="user_add_profile_item_summary">Вы можете ограничить доступ к приложениям и контенту из вашего аккаунта</string>
-    <string name="user_add_user_item_title">Добавить пользователя</string>
-    <string name="user_add_profile_item_title">Профиль с огр. доступом</string>
-    <string name="user_add_user_title">Добавить пользователя</string>
-    <string name="user_add_user_message_long">"Если вашим устройством пользуется кто-то ещё, создайте отдельные аккаунты. У каждого будет свое пространство, где можно, например, установить приложения или выбрать обои. Некоторые параметры, такие как настройки сети Wi-Fi, будут общими для всех.
+Це можливо завдяки надійному сертифікату, встановленому на пристрої."</string>
+    <string name="ssl_ca_cert_settings_button">Налаштування сертифікатів</string>
+    <string name="tune_away_title">Стерте налаштування</string>
+    <string name="tune_away_Default">Вимкнено</string>
+    <string name="tune_away_enabled">Стерте налаштування увімкнено!</string>
+    <string name="tune_away_disabled">Стерте налаштування вимкнено!</string>
+    <string name="priority_sub_title">Пріоритетна підписка</string>
+    <string name="priority_sub_summary">Виберіть пріоритетну підписку</string>
+    <string name="user_settings_title">Користувачі</string>
+    <string name="user_list_title">Користувачі та профілі</string>
+    <string name="user_add_user_menu">Додати користувача / профіль</string>
+    <string name="user_summary_restricted_profile">Профіль з обмеженим доступом</string>
+    <string name="user_need_lock_message">Щоб створити профіль з обмеженим доступом, необхідно попередньо налаштувати блокування екрану для захисту додатків і особистих даних</string>
+    <string name="user_set_lock_button">Увімкнути блокування</string>
+    <string name="user_summary_not_set_up">Не налаштовано </string>
+    <string name="user_summary_restricted_not_set_up">Не налаштовано - профіль з обмеженим доступом</string>
+    <string name="user_owner">Власник</string>
+    <string name="user_you">Ви (%s)</string>
+    <string name="user_nickname">Псевдонім</string>
+    <string name="user_add_user_type_title">Додавання</string>
+    <string name="user_add_user_item_summary">У користувачів є свої програми та контент</string>
+    <string name="user_add_profile_item_summary">Ви можете обмежити доступ до додатків і контенту з вашого облікового запису</string>
+    <string name="user_add_user_item_title">Додати користувача</string>
+    <string name="user_add_profile_item_title">Профіль з обм. доступом</string>
+    <string name="user_add_user_title">Додати користувача</string>
+    <string name="user_add_user_message_long">"Якщо вашим пристроєм користується ще хтось, створіть окремі акаунти. У кожного буде свій простір, де можна, наприклад, встановити додатки або вибрати шпалери. Деякі параметри, такі як налаштування мережі Wi-Fi, будуть спільними для всіх.
 
-Каждый новый пользователь должен выполнить настройку.
+Кожен новий користувач повинен виконати налаштування.
 
-Пользователи могут разрешать обновления для любых аккаунтов на устройстве."</string>
-    <string name="user_add_user_message_short">"Каждый новый пользователь должен выполнить настройку.
+Користувачі можуть дозволяти оновлення для будь-яких акаунтів на пристрої."</string>
+    <string name="user_add_user_message_short">"Кожен новий користувач повинен виконати налаштування.
 
-Пользователи могут разрешать обновления для любых аккаунтов на устройстве."</string>
-    <string name="user_setup_dialog_title">Настроить аккаунт?</string>
-    <string name="user_setup_dialog_message">Если у пользователя нет возможности настроить аккаунт прямо сейчас, он сможет сделать это позже.</string>
-    <string name="user_setup_profile_dialog_message">Настроить профиль?</string>
-    <string name="user_setup_button_setup_now">Настроить сейчас</string>
-    <string name="user_setup_button_setup_later">Не сейчас</string>
-    <string name="user_cannot_manage_message">Только владелец может настроить устройство для других пользователей.</string>
-    <string name="user_cannot_add_accounts_message">Пользователи с ограниченным доступом не могут добавлять аккаунты</string>
-    <string name="user_remove_user_menu">Удалить пользователя %1$s</string>
-    <string name="user_new_user_name">Новый пользователь</string>
-    <string name="user_new_profile_name">Новый профиль</string>
-    <string name="user_confirm_remove_self_title">Удалить ваш аккаунт?</string>
-    <string name="user_confirm_remove_title">Удалить аккаунт?</string>
-    <string name="user_profile_confirm_remove_title">Удалить профиль?</string>
+Користувачі можуть дозволяти оновлення для будь-яких акаунтів на пристрої."</string>
+    <string name="user_setup_dialog_title">Налаштувати аккаунт?</string>
+    <string name="user_setup_dialog_message">Якщо у користувача немає можливості налаштувати акаунт зараз, він зможе зробити це пізніше.</string>
+    <string name="user_setup_profile_dialog_message">Налаштувати профіль?</string>
+    <string name="user_setup_button_setup_now">Налаштувати зараз</string>
+    <string name="user_setup_button_setup_later">Не зараз</string>
+    <string name="user_cannot_manage_message">Тільки власник може налаштувати пристрій для інших користувачів.</string>
+    <string name="user_cannot_add_accounts_message">Користувачі з обмеженим доступом не можуть додавати акаунти</string>
+    <string name="user_remove_user_menu">Стерти користувача %1$s</string>
+    <string name="user_new_user_name">Новий користувач</string>
+    <string name="user_new_profile_name">Новий профіль</string>
+    <string name="user_confirm_remove_self_title">Стерти ваш аккаунт?</string>
+    <string name="user_confirm_remove_title">Стерти аккаунт?</string>
+    <string name="user_profile_confirm_remove_title">Стерти профіль?</string>
     <string name="user_confirm_remove_self_message">Ваши данные, сохраненные на этом устройстве, будут удалены без возможности восстановления.</string>
     <string name="user_confirm_remove_message">Сохраненные на устройстве данные этого пользователя будут удалены без возможности восстановления.</string>
     <string name="user_profile_confirm_remove_message">Сохраненные на телефоне данные этого профиля будут удалены без возможности восстановления</string>
