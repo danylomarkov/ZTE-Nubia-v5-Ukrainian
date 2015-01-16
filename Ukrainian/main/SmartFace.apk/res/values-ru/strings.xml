@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name">Умный чехол</string>
-    <string name="smartface_setting_title">Умный чехол</string>
-    <string name="title_enable_smartface_preference">Функия умного чехла</string>
-    <string name="enable_smartface_summary">Включите функцию, чтобы настроить</string>
-    <string name="title_enable_smartface_window_preference">Умный чехол</string>
-    <string name="enable_smartface_window_summary">Чехол с интерактивным окном и функцией быстрой разблокировки</string>
-    <string name="title_dismiss_lockscreen_preference">Авто-разблокировка экрана</string>
-    <string name="dismiss_lockscreen_summary">Умный чехол разблокирует телефон при открытии</string>
-    <string name="title_face_color_preference">Фоновое окно</string>
-    <string name="dialog_title_color_choose_preference">Выберите цвет фонового окна</string>
-    <string name="face_color_summary">Черный</string>
-    <string name="title_smartface_helper_preference">Подсказка</string>
-    <string name="title_smartface_choice">Выберите тип чехла</string>
-    <string name="title_enable_smartface_ordinary_preference">Обычный чехол</string>
-    <string name="enable_smartface_ordinary_summary">Чехол с функцией быстрой разблокировки</string>
-    <string name="smartface_support_info">Эту функцию поддерживает только смартфон Nubia.</string>
-    <string name="smartface_function_info_1">Интерактивное окно позволяет отображать дату, время, управлять музыкой и будильником.</string>
-    <string name="smartface_function_info_2">Вы можете увидеть пропущенные события в интерактивном окне.</string>
+    <string name="app_name">Розумний чохол</string>
+    <string name="smartface_setting_title">Розумний чохол</string>
+    <string name="title_enable_smartface_preference">Функція розумного чохла</string>
+    <string name="enable_smartface_summary">Увімкніть функцію, щоб налаштувати</string>
+    <string name="title_enable_smartface_window_preference">Розумний чохол</string>
+    <string name="enable_smartface_window_summary">Чохол з інтерактивним вікном і функцією швидкого розблокування</string>
+    <string name="title_dismiss_lockscreen_preference">Авторозблокування екрану</string>
+    <string name="dismiss_lockscreen_summary">Розумний чохол разблокує телефон при відкритті</string>
+    <string name="title_face_color_preference">Фонове вікно</string>
+    <string name="dialog_title_color_choose_preference">Виберіть колір фонового вікна</string>
+    <string name="face_color_summary">Чорний</string>
+    <string name="title_smartface_helper_preference">Підказка</string>
+    <string name="title_smartface_choice">Виберіть тип чохла</string>
+    <string name="title_enable_smartface_ordinary_preference">Звичайний чохол</string>
+    <string name="enable_smartface_ordinary_summary">Чохол з функцією швидкого розблокування</string>
+    <string name="smartface_support_info">Цю функцію підтримує тільки смартфон Nubia.</string>
+    <string name="smartface_function_info_1">Інтерактивне вікно дозволяє відображати дату, час, керувати музикою і будильником.</string>
+    <string name="smartface_function_info_2">Ви можете побачити пропущені події в інтерактивному вікні.</string>
 </resources>
